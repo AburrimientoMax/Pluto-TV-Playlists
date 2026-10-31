@@ -1416,6 +1416,11 @@
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b3566df77b5e1d230d460f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="660bfc032433010008def35a" start="20261101022400 +0000" stop="20261101050700 +0000">
+        <title>World Cup Soccer</title>
+        <desc>Soccer action from around the globe.</desc>
+        <icon src="https://images.pluto.tv/series/67b356b8f77b5e1d230de26e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66337e6ba0a74e000889563b" start="20261031190000 +0000" stop="20261031233000 +0000">
         <title>Darts</title>
         <desc>Series 15 Champions Night.</desc>
@@ -8569,6 +8574,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Cameron Wake sacked Andy Dalton for a safety in overtime, and the Miami Dolphins beat the Cincinnati Bengals 22-20 on Halloween night.</desc>
         <icon src="https://images.pluto.tv/series/6a6c6450cd7852640b20060e/tile_1785488465259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a6a02dc05520fcba93df783" start="20261101082000 +0000" stop="20261101090000 +0000">
+        <title>NFL Throwback</title>
+        <desc>See the best moments, plays and games from the 2026 class of the Pro Football Hall of Fame.</desc>
+        <icon src="https://images.pluto.tv/series/6a6c643acd7852640b1fdf21/tile_1785488443109.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6a8eaea2fad3326545c281f1" start="20261101013054 +0000" stop="20261101020054 +0000">
         <title>The Ultimate Hype: Super Slap</title>
         <desc>Super Slap: Zwei Ungeschlagene im Duell! Walentina Doronina trifft auf Sommerhaus-Teilnehmerin Ginger Costello-Wollersheim. Außerdem: Alexander Molz vs. Marin Manson. Wer steckt ein, wer teilt aus und wer setzt sich durch?</desc>
@@ -12064,6 +12074,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Die wahre Geschichte eines unterdimensionierten Rennpferds, dessen Siege zur Zeit der Großen Depression nicht nur seinem Team, sondern der ganzen Nation Mut machten.</desc>
         <icon src="https://images.pluto.tv/series/68fb5f00d70c07ace8023f1a/tile_1761329826350.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dde47b63585b500099f74ec" start="20261101070110 +0000" stop="20261101094110 +0000">
+        <title>Es wird immer wieder Tag</title>
+        <desc>John Wayne spielt Dan Roman, einen Piloten, der von seiner tragischen Vergangenheit heimgesucht wird. Zum Kopiloten degradiert, findet er sich auf einem Routineflug von Honolulu nach San Francisco wieder, bis etwas Schreckliches geschieht.</desc>
+        <icon src="https://images.pluto.tv/series/62fb9dbe85bbed001af8606e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e7de99bc5200300072e971a" start="20261101015317 +0000" stop="20261101024106 +0000">
         <title>Sanctuary: Das Geisterschiff</title>
         <desc>Will möchte mit Abby einen romantischen Abend verbringen. Auf dem Weg ins Restaurant werden die beiden von Unbekannten entführt. Sie sollen helfen, einen Bandenanführer vor dem sicheren Tod zu retten.</desc>
@@ -12328,6 +12343,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Zwei außer Rand und Band</title>
         <desc>Zwei mittellose Freunde beschließen, einen Laden auszurauben – landen aber stattdessen auf einer Polizeiwache, wo sie als neue Rekruten eingezogen werden. Mit Terence Hill und Bud Spencer.</desc>
         <icon src="https://images.pluto.tv/series/6a072c814a77e2cd157da367/tile_1778855042059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65004605110545000842035d" start="20261101062903 +0000" stop="20261101080203 +0000">
+        <title>Ein Fall für TKKG - Drachenauge</title>
+        <desc>Die vier TKKGs entdecken in einer Höhle kostbare Bücher und das Schwert Drachenauge. Doch auf die darin versteckte Schatzkarte hat es auch ein Antiquitätenhändler abgesehen...</desc>
+        <icon src="https://images.pluto.tv/series/64390da072e1ff001a67c926/tile_1767846533249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="652e7582cc7abc0008439bfe" start="20261101002541 +0000" stop="20261101023313 +0000">
         <title>Cover Hard 3</title>
@@ -26385,6 +26405,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Der Duke spielt George Washington McLintock, einen trotzigen Viehbaron, dessen Tochter Becky gerade aus dem College zurück ist. G.W.s Wiedersehen mit seiner Tochter wird durch die Ankunft seiner Frau Katherine getrübt, die ihn verlassen hat.</desc>
         <icon src="https://images.pluto.tv/series/6243221dd16300001393f1b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5c5c3b948002db3c3e0b262e" start="20261101143803 +0000" stop="20261101170003 +0000">
+        <title>Der Sieger</title>
+        <desc>Ein amerikanischer Ex-Boxer kehrt nach Irland zurück, um die Hand einer jungen Frau zu gewinnen. Er wird mit den lokalen Bräuchen und dem streitlustigen Bruder der Frau konfrontiert. Ein Film mit wunderschönen Kulissen und lokalem Charme.</desc>
+        <icon src="https://images.pluto.tv/series/62fb9dc885bbed001af86191/tile_1779131161125.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5cb5d043a461406ffe3fb2de" start="20261101092700 +0000" stop="20261101101700 +0000">
         <title>Bianca – Wege zum Glück: Episode 116</title>
         <desc>Eddie kümmert sich um Bianca, die sich langsam wieder von ihrer Krankheit erholt. Oliver vermutet, dass Bianca in einem Krankenhaus liegt und sucht vergeblich nach ihr.</desc>
@@ -33303,6 +33328,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <desc>Melek schwört, Sabris Tod zu rächen, ungeachtet aller Warnungen.</desc>
         <icon src="https://images.pluto.tv/series/6ad02ff4e461b4d6443aa159/tile_1792028672338.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6864e8f264d94c1425fb4563" start="20261101185005 +0000" stop="20261101205459 +0000">
+        <title>Karagül</title>
+        <desc>Melek tötet Merdan und geht entschlossen ihrem Ziel entgegen.</desc>
+        <icon src="https://images.pluto.tv/series/6ad02ff4e461b4d6443aa159/tile_1792028672338.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="688734b9035d6ef9c34aac16" start="20261101132453 +0000" stop="20261101142011 +0000">
         <title>Die fliegenden Ärzte</title>
         <desc>Nancy Buckley erhält die Diagnose Gebärmutterkrebs. Sie soll sie sich einer Totaloperation unterziehen. Doch weder Geoffrey noch ihr Mann Vic können sie dazu bewegen. Erst Sharon die aus Sydney kommt, versteht warum.</desc>
@@ -36770,6 +36800,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>2018 FIFA World Cup</title>
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b3566df77b5e1d230d460f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660bfc032433010008def35a" start="20261101223300 +0000" stop="20261102002700 +0000">
+        <title>2014 FIFA World Cup</title>
+        <desc>In a rematch of the 2010 World Cup Final, defending champion Spain battles the Netherlands in their opening Group Stage match. From Octavio Mangabeira Stadium in Salvador, Brazil.</desc>
+        <icon src="https://images.pluto.tv/series/67b3567ef77b5e1d230d6313/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66337e6ba0a74e000889563b" start="20261101175000 +0000" stop="20261101181000 +0000">
         <title>Greatest Comebacks: Archie Self vs Carl Wilson</title>

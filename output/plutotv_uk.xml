@@ -946,6 +946,11 @@
         <desc>The hilarious, accidentally brilliant Inspector Clouseau once again takes on his archenemy, the insane Dreyfus, as he plots to control the world.</desc>
         <icon src="https://images.pluto.tv/series/5b1904e9c65a06426375f94b/tile_1780340793046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5c363c2411c5ca053f198f97" start="20261101023941 +0000" stop="20261101044103 +0000">
+        <title>Pink Panther Strikes Again</title>
+        <desc>Chief Inspector Dreyfus (Herbert Lom) is finally driven mad by Inspector Clouseau's (Peter Sellers) incompetence and commandeers a doomsday device along with a demand for Clouseau’s death. Are 26 hired assassins a match for Clouseau's dumb luck?</desc>
+        <icon src="https://images.pluto.tv/series/69299fa3232b4e31aabf3b6e/tile_1764336224703.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5c5c31f2f21b553c1f673fb0" start="20261031210715 +0000" stop="20261031231853 +0000">
         <title>The Theatre Bizarre</title>
         <desc>A modern horror omnibus inspired by the over-the-top shocks of Paris' early 20th century 'Theatre du Grand Guignol'. Enola Penny sneaks into an abandoned theater and witnesses six bizarre tales.</desc>
@@ -1730,6 +1735,11 @@
         <title>2018 FIFA World Cup</title>
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6596446070bd3cb811/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d91d2560bc8f0008a225e4" start="20261101022400 +0000" stop="20261101050700 +0000">
+        <title>World Cup Soccer</title>
+        <desc>Soccer action from around the globe.</desc>
+        <icon src="https://images.pluto.tv/series/67b36ba196446070bd3d24b6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63fe2ec4dff38e000835f786" start="20261031215500 +0000" stop="20261031224500 +0000">
         <title>Rookie Blue: Big Nickel</title>
@@ -8444,6 +8454,11 @@ government research.</desc>
         <desc>Cameron Wake sacked Andy Dalton for a safety in overtime, and the Miami Dolphins beat the Cincinnati Bengals 22-20 on Halloween night.</desc>
         <icon src="https://images.pluto.tv/series/6a6c5d7dfb2bd7ef0855e76e/tile_1785486718863.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a6a02ce1b1c90d8bf9556d8" start="20261101082000 +0000" stop="20261101090000 +0000">
+        <title>NFL Throwback</title>
+        <desc>See the best moments, plays and games from the 2026 class of the Pro Football Hall of Fame.</desc>
+        <icon src="https://images.pluto.tv/series/6a6c5d64fb2bd7ef0855c303/tile_1785486693288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5ca1df0d50be2571e393ad31" start="20261101014800 +0000" stop="20261101024200 +0000">
         <title>Deadly Women</title>
         <desc>Behind lace-curtained windows and beneath sensible haircuts lurked evil. Appearances were deceptive. We did not notice these female killers walking by. These women wore a mask of sanity.</desc>
@@ -12904,6 +12919,11 @@ outside our own solar system.</desc>
         <title>Mother Lode</title>
         <desc>A couple of adventurers go into the wilds of British Columbia in search of a lost colleague, but when their plane crashes they find themselves at the mercy of an isolated, crazy miner.</desc>
         <icon src="https://images.pluto.tv/series/64e343be334a8a0013f91bba/tile_1785274922194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5c5c31f2f21b553c1f673fb0" start="20261101101404 +0000" stop="20261101120804 +0000">
+        <title>The Lady Vanishes</title>
+        <desc>Alfred Hitchcock mixes suspense, comedy, witty dialog, and endearing character in this charming, classic mystery. When a kindly governess vanishes from a train, no one believes she even exists…except for one woman who sets about solving the mystery.</desc>
+        <icon src="https://images.pluto.tv/series/650aa687f64f180013f814b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d4bdb635ce813b38639e6a3" start="20261101054249 +0000" stop="20261101063749 +0000">
         <title>Bonanza</title>
@@ -17444,15 +17464,15 @@ trying to get his attention.</desc>
         <desc>Guest judge Anthony Bourdain joins as 15 all-new contestants arrive in Miami and prepare for their very first challenge.</desc>
         <icon src="https://images.pluto.tv/series/6825b45c12cab50db6c12142/tile_1787177932302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb137a5d8215f99b9cc06" start="20261101081200 +0000" stop="20261101090100 +0000">
-        <title>Top Chef</title>
-        <desc>The chefs work with fruit; guest judge Norman Van Aken.</desc>
-        <icon src="https://images.pluto.tv/series/6825b45c12cab50db6c12142/tile_1787177932302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="677fb137a5d8215f99b9cc06" start="20261101081200 +0000" stop="20261101101200 +0000">
         <title>Top Chef</title>
         <desc>A hit reality competition that celebrates the culinary arts with a pressurized environment of world-class cookery and the restaurant business, all at the highest level.</desc>
         <icon src="https://images.pluto.tv/series/6a58a56e099657513d9bbefb/tile_1784194415280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb137a5d8215f99b9cc06" start="20261101081200 +0000" stop="20261101090100 +0000">
+        <title>Top Chef</title>
+        <desc>The chefs work with fruit; guest judge Norman Van Aken.</desc>
+        <icon src="https://images.pluto.tv/series/6825b45c12cab50db6c12142/tile_1787177932302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="677fb137a5d8215f99b9cc06" start="20261101090100 +0000" stop="20261101095100 +0000">
         <title>Top Chef</title>
@@ -19393,6 +19413,11 @@ trying to get his attention.</desc>
         <title>Now You See Me 2</title>
         <desc>A devious tech wizard forces the illusionists known as the Four Horsemen to steal a powerful chip that can control all the world's computers.</desc>
         <icon src="https://images.pluto.tv/series/68ed84d169032f4edf72095f/tile_1760398177486.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6401d85a49839300087b116c" start="20261101145800 +0000" stop="20261101165400 +0000">
+        <title>Man on a Ledge</title>
+        <desc>While trying to convince a disgraced ex-cop (Sam Worthington) to come in from a high-rise ledge, a police negotiator (Elizabeth Banks) begins to realize that the man has an ulterior motive.</desc>
+        <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65031534d545e9000881ed10" start="20261101085900 +0000" stop="20261101102900 +0000">
         <title>Don't Ever Leave Me</title>
@@ -25585,6 +25610,11 @@ spirits of the long dead.</desc>
         <desc>Justin Timberlake and Amanda Seyfried co-star in this sci-fi thriller set in a future world where aging stops at 25, and the only way for one man to stay alive is to steal more time.</desc>
         <icon src="https://images.pluto.tv/series/60643010e52b47001bb06d42/tile_1766819624746.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dc02a44a9518600094273ac" start="20261101182454 +0000" stop="20261101210054 +0000">
+        <title>SpaceWalker</title>
+        <desc>In the heat of the Cold War, the USA and the USSR fight for supremacy in space, with both superpowers competing to be the first to have a man walk in outer space. Prepare to step into the unknown.</desc>
+        <icon src="https://images.pluto.tv/series/5e7378068fcc1c001a56f256/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dc3fc6b9133f500099c7d98" start="20261101135905 +0000" stop="20261101160908 +0000">
         <title>Kids From Planet 62F</title>
         <desc>Four friends find an object with special powers that belongs to two alien kids from the planet 62F. Now they must race to get it back to its rightful owners, but NASA are on their tail and they will stop at nothing to get their hands on it.</desc>
@@ -26214,6 +26244,11 @@ spirits of the long dead.</desc>
         <title>The American Friend</title>
         <desc>Tom Ripley, who deals in forged art, suggests a picture framer he knows would make a good hit man.</desc>
         <icon src="https://images.pluto.tv/series/6916f1ee69032f4edf6b15d8/tile_1763111409368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b5a7b69ac85c428f54c441" start="20261101185100 +0000" stop="20261101210128 +0000">
+        <title>The Salt of the Earth</title>
+        <desc>Wim Wenders doc on the photographer Sebastiao Salgado and his work.</desc>
+        <icon src="https://images.pluto.tv/series/6916f01f3fb09016dabaa84a/tile_1789148882415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68e3bffe1cfcd7541d59090f" start="20261101135254 +0000" stop="20261101142252 +0000">
         <title>Most Haunted: Unseen</title>
@@ -31853,6 +31888,11 @@ more than he bargained for.</desc>
         <desc>During a closed-door demonstration of her new virtual reality video game, brilliant game designer Allegra Geller survives an attempt on her life by a crazed assassin. Starring: Jude Law, Jennifer Jason Leigh, Ian Holm, Willem Dafoe, Don McKellar</desc>
         <icon src="https://images.pluto.tv/series/5ddfc6677b6f3a45f42b43f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dc02a44a9518600094273ac" start="20261101225054 +0000" stop="20261102003754 +0000">
+        <title>Dune Warriors</title>
+        <desc>After the end of the world, Earth is a thirsty planet ruled by vicious warlords. One woman is brave enough to fight back; she bands together five warriors to save her town and their precious water.</desc>
+        <icon src="https://images.pluto.tv/series/5e12e73f5527ae0fb351530a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dc3fc6b9133f500099c7d98" start="20261101160908 +0000" stop="20261101180708 +0000">
         <title>First Daughter</title>
         <desc>Samantha Mackenzie wants what every college freshman desires: to experience life away from home and parents. It's not going to be easy, however, because home for Sam is the White House, and her dad is the President of the United States.</desc>
@@ -31867,6 +31907,11 @@ more than he bargained for.</desc>
         <title>Bogus</title>
         <desc>When 7-year-old Albert's mother is suddenly killed in an auto accident, he and his imaginary French friend "Bogus" take up residence with his no-nonsense aunt Harriet.</desc>
         <icon src="https://images.pluto.tv/series/6373729d259abd0013f2d84b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dc3fc6b9133f500099c7d98" start="20261101220508 +0000" stop="20261101235508 +0000">
+        <title>A Bear Named Winnie</title>
+        <desc>The extraordinary true story of the black bear who would become the inspiration for the stories of A.A. Milne, and the heroic man who saved her life. Starring: Michael Fassbender, Gil Bellows, David Suchet</desc>
+        <icon src="https://images.pluto.tv/series/5b5f42ef76c51f5201a88b9a/tile_1784312282035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f27bbe4779de70007a6d1c1" start="20261101173300 +0000" stop="20261101182700 +0000">
         <title>Ghost Hunters: Titanic Terror</title>
@@ -32712,6 +32757,11 @@ more than he bargained for.</desc>
         <title>2018 FIFA World Cup</title>
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6596446070bd3cb811/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d91d2560bc8f0008a225e4" start="20261101223300 +0000" stop="20261102002700 +0000">
+        <title>2014 FIFA World Cup</title>
+        <desc>In a rematch of the 2010 World Cup Final, defending champion Spain battles the Netherlands in their opening Group Stage match. From Octavio Mangabeira Stadium in Salvador, Brazil.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7396446070bd3cd2b2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63fe2ec4dff38e000835f786" start="20261101171300 +0000" stop="20261101180400 +0000">
         <title>Rookie Blue: Leap of Faith</title>

@@ -856,6 +856,11 @@
         <desc>Au XXIIIe siècle, une puissance aliène vide les océans. Pour sauver l'humanité, Kirk et son équipage doivent remonter le temps jusqu'en 1986 où ils découvrent un monde totalement inconnu à leurs yeux : des gens bizarres, des pizzas, des bus.</desc>
         <icon src="https://images.pluto.tv/series/661e6841acbc680013926122/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261101022018 +0000" stop="20261101042318 +0000">
+        <title>Star Trek V: L'Ultime Frontière</title>
+        <desc>Après des années de guerre, la Fédération et l'empire klingon préparent un accord de paix lorsqu'un navire klingon manque d'être détruit, apparemment par l'Enterprise. Les deux mondes se préparent à ce qui pourrait être un affrontement meurtrier.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd5e17f63001ae1a66c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6245ccd0c6cdb800074632e4" start="20261031212000 +0000" stop="20261031221600 +0000">
         <title>MacGyver: Le Sentier des larmes</title>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
@@ -2030,6 +2035,11 @@
         <title>Code 252: Signal de détresse</title>
         <desc>Suite à un tremblement de terre survenu à Tokyo, la température de l'Océan Pacifique grimpe dangereusement. Une tempête impressionnante, puis un tsunami s'abattent sur la ville. Des survivants vont tenter de transmettre le code 252, synonyme de secours.</desc>
         <icon src="https://images.pluto.tv/series/60196c805777bb001aaa196c/tile_1777902481580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c34592c911890007f29a73" start="20261101023750 +0000" stop="20261101050314 +0000">
+        <title>Alana : Déesse de Justice</title>
+        <desc>Séparée de ses parents à la naissance, Alana grandit dans une société corrompue. Sujette à d’étranges colères, elle découvre qu’elle est la réincarnation de Sri Asih, déesse de justice. Ses pouvoirs vont bientôt changer le cours des choses.</desc>
+        <icon src="https://images.pluto.tv/series/68711e8ea53444ef2acdf974/tile_1774607401259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60c3472a51a2050008dad272" start="20261031210521 +0000" stop="20261031225752 +0000">
         <title>Blackwater Lane</title>
@@ -3335,6 +3345,11 @@
         <title>The Duel</title>
         <desc>Au Texas, en 1887, le ranger Kingston est envoyé enquêter sur une série de morts mystérieuses à la frontière mexicaine. Kingston y retrouve l'homme qui a tué son père 20 ans auparavant dans un duel sanglant.</desc>
         <icon src="https://images.pluto.tv/series/6523a0ec05bcdf001afe57aa/tile_1782270020988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20261101023921 +0000" stop="20261101044019 +0000">
+        <title>Tire Encore Si Tu Peux</title>
+        <desc>Various factions, including a half-breed bandit, a gang of homosexual cowboys and a priest, fight over stolen gold in a surreal city.</desc>
+        <icon src="https://images.pluto.tv/series/678a7797ad92850013a266eb/tile_1768349166781.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a622b5e2370000800f392" start="20261031211931 +0000" stop="20261031224430 +0000">
         <title>Faites Entrer L'Accusé: Dr Jean Chouraqui, la guerre des cliniques</title>
@@ -5717,6 +5732,11 @@ de la ville.</desc>
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6e96446070bd3cc789/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20261101022400 +0000" stop="20261101050700 +0000">
+        <title>World Cup Soccer</title>
+        <desc>Soccer action from around the globe.</desc>
+        <icon src="https://images.pluto.tv/series/67b36ba896446070bd3d341d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20261031220000 +0000" stop="20261031230000 +0000">
         <title>Top stories from CNN</title>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
@@ -6136,6 +6156,11 @@ de la ville.</desc>
         <title>Star Trek VI: Terre Inconnue</title>
         <desc>Le seul espoir d'avenir pour Picard se trouve dans le Nexus… et un légendaire capitaine du passé.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd3e17f63001ae1a640/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261101063018 +0000" stop="20261101084518 +0000">
+        <title>Star Trek VII: Générations</title>
+        <desc>L’équipage du vaisseau de la Fédération, l’Enterprise, est appelé sur Nimbus III, la Planète de la Paix Galactique. Menant les négociations dans un cas de prise d’otage, ils découvrent que le ravisseur n’est autre qu’un parent de Spock.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd1e17f63001ae1a614/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6245ccd0c6cdb800074632e4" start="20261101010400 +0000" stop="20261101020100 +0000">
         <title>MacGyver: Quiproquo</title>
@@ -11333,6 +11358,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Cameron Wake sacked Andy Dalton for a safety in overtime, and the Miami Dolphins beat the Cincinnati Bengals 22-20 on Halloween night.</desc>
         <icon src="https://images.pluto.tv/series/6a6c644ecd7852640b20030a/tile_1785488463062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a6a02bd93ac783fe20d1bf7" start="20261101082000 +0000" stop="20261101090000 +0000">
+        <title>NFL Throwback</title>
+        <desc>See the best moments, plays and games from the 2026 class of the Pro Football Hall of Fame.</desc>
+        <icon src="https://images.pluto.tv/series/6a6c6437cd7852640b1fdad1/tile_1785488440442.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20261101050823 +0000" stop="20261101060723 +0000">
         <title>Waking the Dead: Regrets, Partie 1</title>
         <desc>Un homme est retrouvé mort dans un hôtel, conséquences d'un violent acte sadomasochiste. Le tueur a gravé « désolé » dans le dos de la victime. L'unité des affaires en sommeil enquête déjà sur une affaire similaire datant d'il y a quatre ans.</desc>
@@ -13488,6 +13518,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Jude et Mina, un couple fusionnel, voient leur relation basculer quand Mina tombe enceinte. Convaincue que leur bébé est exceptionnel, elle l’isole du monde de façon obsessionnelle, tandis que Jude réalise qu’elle perd pied avec la réalité.</desc>
         <icon src="https://images.pluto.tv/series/698304f3e090dedcb243967e/tile_1790925844723.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20261101101203 +0000" stop="20261101120334 +0000">
+        <title>Joueurs</title>
+        <desc>Ella tombe sous le charme d’Abel, un amant insaisissable qui l’entraîne dans le Paris clandestin des cercles de jeux, où règnent argent et adrénaline. Ce qui n’était qu’un pari devient entre eux une passion dévorante.</desc>
+        <icon src="https://images.pluto.tv/series/6980868eacf7dd3dc4907d37/tile_1770030735507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20261101050545 +0000" stop="20261101070041 +0000">
         <title>Le Baiser du Serpent</title>
         <desc>En Angleterre, au XVIIe siècle, un architecte paysagiste néerlandais se retrouve pris dans un enchevêtrement de passions et de trahisons après avoir été engagé par un riche marchand.</desc>
@@ -13942,6 +13977,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Homicide</title>
         <desc>HOMICIDE : La chaine 100% faits divers et affaires criminelles. Reconstitutions, reportages en immersion, enquêtes judiciaires, témoignages de victimes et analyses d’experts : HOMICIDE vous plonge au cœur des faits divers.</desc>
         <icon src="https://images.pluto.tv/series/6613b9f1a7a31d00170cfa76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63921a3d00c96100082a3cb4" start="20261101150700 +0000" stop="20261101160100 +0000">
+        <title>The FBI Files</title>
+        <desc>À la fin des années 1970, le FBI enquête sur Oméga 7, un groupuscule terroriste anticastriste qui opère aux États-Unis. Néanmoins, les autorités ne connaissent l'identité d'aucun des membres du groupe.</desc>
+        <icon src="https://images.pluto.tv/series/6613b9bca7a31d00170caad6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63b579961bdba100071214cb" start="20261101055627 +0000" stop="20261101062828 +0000">
         <title>C'est Pas Sorcier</title>
@@ -16137,6 +16177,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     <programme channel="5f8ecfb9db6c180007a6d1b0" start="20261101084400 +0000" stop="20261101111200 +0000">
         <title>World Poker Tour: WPT Bay 101 Shooting Star</title>
         <desc>More than $1.2 million is up for grabs in San Jose for the WPT Bay 101 Shooting Star.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1787320083164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20261101111200 +0000" stop="20261101120100 +0000">
+        <title>World Poker Tour: WPT Seminole Hard Rock Poker Showdown - Part 1</title>
+        <desc>More than a million dollars is up for grabs in South Florida in the WPT Seminole Hard Rock Poker Showdown.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1787320083164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ffc8c345822750007e167de" start="20261101055314 +0000" stop="20261101062314 +0000">
@@ -20357,6 +20402,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20261101124600 +0000" stop="20261101144500 +0000">
         <title>Y'a que la vérité qui compte: Episode 98</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20261101144500 +0000" stop="20261101164400 +0000">
+        <title>Y'a que la vérité qui compte: Episode 102</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
@@ -29164,6 +29214,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un couple participe à une expérience psychologique qui leur rapportera 5 millions de dollars s'ils peuvent rester 50 jours dans une chambre parfaitement blanche.</desc>
         <icon src="https://images.pluto.tv/series/652f810e619680001af02714/tile_1768352044721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c34592c911890007f29a73" start="20261101223455 +0000" stop="20261102010019 +0000">
+        <title>Alana : Déesse de Justice</title>
+        <desc>Séparée de ses parents à la naissance, Alana grandit dans une société corrompue. Sujette à d’étranges colères, elle découvre qu’elle est la réincarnation de Sri Asih, déesse de justice. Ses pouvoirs vont bientôt changer le cours des choses.</desc>
+        <icon src="https://images.pluto.tv/series/68711e8ea53444ef2acdf974/tile_1774607401259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c3472a51a2050008dad272" start="20261101174626 +0000" stop="20261101193347 +0000">
         <title>Nuit Blanche</title>
         <desc>Un flic dérobe un sac de cocaïne à des trafiquants, mais est identifié au cours de l’opération. Les truands prennent alors son fils en otage. Vincent doit faire l’échange - son fils contre le sac - dans une immense boîte de nuit tenue par les mafieux.</desc>
@@ -32878,6 +32933,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>2018 FIFA World Cup</title>
         <desc>From June 30, 2018.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6e96446070bd3cc789/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20261101223300 +0000" stop="20261102002700 +0000">
+        <title>2014 FIFA World Cup</title>
+        <desc>In a rematch of the 2010 World Cup Final, defending champion Spain battles the Netherlands in their opening Group Stage match. From Octavio Mangabeira Stadium in Salvador, Brazil.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7c96446070bd3ce0b9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20261101180000 +0000" stop="20261101190000 +0000">
         <title>Top stories from CNN</title>
