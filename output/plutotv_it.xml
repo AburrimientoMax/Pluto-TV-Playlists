@@ -23623,6 +23623,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Revive toda la emoción de la CONMEBOL Copa Libertadores 2026. Vuelve a disfrutar los mejores partidos y los momentos más vibrantes de este torneo legendario, ahora en Pluto TV… ¡totalmente gratis!</desc>
         <icon src="https://images.pluto.tv/series/699c57c0003970d0e62dead7/tile_1790725322670.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="63c6e37e636b7e0007ccb635" start="20261101114552 +0000" stop="20261101140152 +0000">
+        <title>Revive Copa Libertadores 2026</title>
+        <desc>Revive toda la emoción de la CONMEBOL Copa Libertadores 2026. Vuelve a disfrutar los mejores partidos y los momentos más vibrantes de este torneo legendario, ahora en Pluto TV… ¡totalmente gratis!</desc>
+        <icon src="https://images.pluto.tv/series/699c57c0003970d0e62dead7/tile_1790725322670.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d2c140c111bc0008cb890b" start="20261101070000 +0000" stop="20261101080000 +0000">
         <title>Blitz</title>
         <desc>Un programa que muestra lo más relevante en tecnología, videojuegos, música electrónica y cine.</desc>
@@ -40460,7 +40465,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
         <icon src="https://images.pluto.tv/series/5ecd79aedd6d8f001b5cd22f/tile_1768769280975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6d935d000120009bc1132" start="20261101192400 +0000" stop="20261101230000 +0000">
+    <programme channel="5dd6d935d000120009bc1132" start="20261101192400 +0000" stop="20261101194900 +0000">
+        <title>Ninja Warrior</title>
+        <desc>La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
+        <icon src="https://images.pluto.tv/series/5ecd79aedd6d8f001b5cd22f/tile_1768769280975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6d935d000120009bc1132" start="20261101194900 +0000" stop="20261101201400 +0000">
+        <title>Ninja Warrior</title>
+        <desc>La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
+        <icon src="https://images.pluto.tv/series/5ecd79aedd6d8f001b5cd22f/tile_1768769280975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6d935d000120009bc1132" start="20261101201400 +0000" stop="20261101230000 +0000">
         <title>Pluto TV  Competencias</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featured16_9-20250131170353.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40470,7 +40485,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El equipo instala guardafangos de cuerpo ancho en el Fox Body Cobra.</desc>
         <icon src="https://images.pluto.tv/series/61e191f7f72e7b001a6ed9c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6dc7480e3550009133d4a" start="20261101191100 +0000" stop="20261101230000 +0000">
+    <programme channel="5dd6dc7480e3550009133d4a" start="20261101191100 +0000" stop="20261101193400 +0000">
+        <title>Detroit Muscle</title>
+        <desc>Aprenda cómo se fabrican los principales componentes de un sistema de frenos.</desc>
+        <icon src="https://images.pluto.tv/series/61e191f7f72e7b001a6ed9c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dc7480e3550009133d4a" start="20261101193400 +0000" stop="20261101195700 +0000">
+        <title>Detroit Muscle</title>
+        <desc>Un Camaro SS 2017 es mejorado para luego ser regalado a un afortunado espectador.</desc>
+        <icon src="https://images.pluto.tv/series/61e191f7f72e7b001a6ed9c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dc7480e3550009133d4a" start="20261101195700 +0000" stop="20261101202000 +0000">
+        <title>Detroit Muscle</title>
+        <desc>El Camaro del Sorteo Valvoline está terminado y preparado para ser entregado a un afortunado espectador.</desc>
+        <icon src="https://images.pluto.tv/series/61e191f7f72e7b001a6ed9c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dc7480e3550009133d4a" start="20261101202000 +0000" stop="20261101230000 +0000">
         <title>Pluto TV Velocidad</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40480,7 +40510,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El retrato de personas que han dedicado su vida a proteger especies en peligro y su entorno.</desc>
         <icon src="https://images.pluto.tv/series/698b4958f6a1c14c0903fdca/tile_1770735960960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd85eac039bba0009e86d1d" start="20261101192500 +0000" stop="20261101230000 +0000">
+    <programme channel="5dd85eac039bba0009e86d1d" start="20261101192500 +0000" stop="20261101195700 +0000">
+        <title>Guardianes del bosque</title>
+        <desc>El retrato de personas que han dedicado su vida a proteger especies en peligro y su entorno.</desc>
+        <icon src="https://images.pluto.tv/series/698b4958f6a1c14c0903fdca/tile_1770735960960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd85eac039bba0009e86d1d" start="20261101195700 +0000" stop="20261101202900 +0000">
+        <title>Guardianes del bosque</title>
+        <desc>El retrato de personas que han dedicado su vida a proteger especies en peligro y su entorno.</desc>
+        <icon src="https://images.pluto.tv/series/698b4958f6a1c14c0903fdca/tile_1770735960960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd85eac039bba0009e86d1d" start="20261101202900 +0000" stop="20261101230000 +0000">
         <title>Pluto TV Naturaleza</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40490,7 +40530,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El camión del ejército muere en el brutal camino hacia la mina.</desc>
         <icon src="https://images.pluto.tv/series/6206927ba5b2950013bbee0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddc266f80e3550009136843" start="20261101195300 +0000" stop="20261101230000 +0000">
+    <programme channel="5ddc266f80e3550009136843" start="20261101195300 +0000" stop="20261101204700 +0000">
+        <title>La Fiebre del Jade</title>
+        <desc>Gary y su hijo rescatan un viejo camión del ejército, pero conducirlo hasta la mina es brutal.</desc>
+        <icon src="https://images.pluto.tv/series/6206927ba5b2950013bbee0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddc266f80e3550009136843" start="20261101204700 +0000" stop="20261101230000 +0000">
         <title>Pluto TV Aventura</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddc266f80e3550009136843/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40500,7 +40545,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
         <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5de91b7ea86ee60009d89e75" start="20261101191000 +0000" stop="20261101230000 +0000">
+    <programme channel="5de91b7ea86ee60009d89e75" start="20261101191000 +0000" stop="20261101194000 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
+        <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5de91b7ea86ee60009d89e75" start="20261101194000 +0000" stop="20261101201000 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
+        <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5de91b7ea86ee60009d89e75" start="20261101201000 +0000" stop="20261101230000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage_1783347553577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40510,7 +40565,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Concurso gastronómico en busca del mejor chef aficionado de México.</desc>
         <icon src="https://images.pluto.tv/series/5e4ad0f76a7897f2460633ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e3ddbd27091820009f86dd9" start="20261101195500 +0000" stop="20261101230000 +0000">
+    <programme channel="5e3ddbd27091820009f86dd9" start="20261101195500 +0000" stop="20261101215100 +0000">
+        <title>MasterChef México</title>
+        <desc>Concurso gastronómico en busca del mejor chef aficionado de México.</desc>
+        <icon src="https://images.pluto.tv/series/5e4ad0f76a7897f2460633ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e3ddbd27091820009f86dd9" start="20261101215100 +0000" stop="20261101230000 +0000">
         <title>MasterChef México</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage_1787850989206.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40520,7 +40580,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
         <icon src="https://images.pluto.tv/series/5e4ad1056a7897f2460637c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e46e64dc73db400094b5f0b" start="20261101190400 +0000" stop="20261101230000 +0000">
+    <programme channel="5e46e64dc73db400094b5f0b" start="20261101190400 +0000" stop="20261101200000 +0000">
+        <title>Minuto Para Ganar</title>
+        <desc>Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
+        <icon src="https://images.pluto.tv/series/5e4ad1056a7897f2460637c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e46e64dc73db400094b5f0b" start="20261101200000 +0000" stop="20261101205300 +0000">
+        <title>Minuto Para Ganar</title>
+        <desc>Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
+        <icon src="https://images.pluto.tv/series/5e4ad1056a7897f2460637c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e46e64dc73db400094b5f0b" start="20261101205300 +0000" stop="20261101230000 +0000">
         <title>Minuto Para Ganar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40530,7 +40600,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
         <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20261101191800 +0000" stop="20261101230000 +0000">
+    <programme channel="5e98a911c881310007d7aae2" start="20261101191800 +0000" stop="20261101194800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20261101194800 +0000" stop="20261101201800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20261101201800 +0000" stop="20261101230000 +0000">
         <title>MTV Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40540,7 +40620,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Los concursantes se encuentran con zombies mientras enfrentan diferentes obstáculos.</desc>
         <icon src="https://images.pluto.tv/series/5e3ac23d176d3b29742c07a5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ed6828192e8b3000743ef61" start="20261101193800 +0000" stop="20261101230000 +0000">
+    <programme channel="5ed6828192e8b3000743ef61" start="20261101193800 +0000" stop="20261101202800 +0000">
+        <title>Wipeout USA</title>
+        <desc>Equipos de jefes y empleados enfrentan increíbles obstáculos.</desc>
+        <icon src="https://images.pluto.tv/series/5e3ac23d176d3b29742c07a5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ed6828192e8b3000743ef61" start="20261101202800 +0000" stop="20261101230000 +0000">
         <title>Wipe Out</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40550,7 +40635,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¿Sueñas con conocer lugares y paisajes increíbles? Para cumplir tu sueño sólo tienes que ver Pluto TV Paisajes Por Stingray, el canal donde puedes disfrutar de hermosos paisajes, acompañados de una música relajante. ¡tu ventana al mundo!</desc>
         <icon src="https://images.pluto.tv/series/5f96da2d9a7e3b000789c01f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f4fed840a2764000720d966" start="20261101190100 +0000" stop="20261101230000 +0000">
+    <programme channel="5f4fed840a2764000720d966" start="20261101190100 +0000" stop="20261101200100 +0000">
+        <title>Paisajes Por Stingray</title>
+        <desc>¿Sueñas con conocer lugares y paisajes increíbles? Para cumplir tu sueño sólo tienes que ver Pluto TV Paisajes Por Stingray, el canal donde puedes disfrutar de hermosos paisajes, acompañados de una música relajante. ¡tu ventana al mundo!</desc>
+        <icon src="https://images.pluto.tv/series/5f96da2d9a7e3b000789c01f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4fed840a2764000720d966" start="20261101200100 +0000" stop="20261101230000 +0000">
         <title>Paisajes por Stingray</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4fed840a2764000720d966/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40560,7 +40650,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>En esta ocasión los compañeros de la casa se dan cuenta que en este programa no hay ningún premio, así que Lulú trata de convencer a los demás de que deberían hacer volar la casa, mientras que Morocha propone una protesta pacífica.</desc>
         <icon src="https://images.pluto.tv/series/66b50d4a94a1840013cf4947/tile_1783694522245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fab088b3279760007d4e4fd" start="20261101191200 +0000" stop="20261101230000 +0000">
+    <programme channel="5fab088b3279760007d4e4fd" start="20261101191200 +0000" stop="20261101202100 +0000">
+        <title>MTV Lado B</title>
+        <desc>En el episodio de MTV Lado B, Cazzu platica con Belu sobre lo místico, el tarot, pesadillas y protecciones, compartiendo anécdotas sobre su maternidad, leyendas urbanas y la inspiración tras su libro y música.</desc>
+        <icon src="https://images.pluto.tv/series/6ab3f61c9abe27364c6bc623/tile_1790178900443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab088b3279760007d4e4fd" start="20261101202100 +0000" stop="20261101230000 +0000">
         <title>MTV Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/featuredImage_1764875981566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40570,7 +40665,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Los dos equipos compiten para hacer la mayor cantidad posible de pasta para la cena de la noche, y un accidente en la cocina lleva a un competidor al hospital.</desc>
         <icon src="https://images.pluto.tv/series/6176bd2d4f409e001a4a4f0c/tile_1769209561389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6095ad97351eb0000754c1e6" start="20261101192000 +0000" stop="20261101230000 +0000">
+    <programme channel="6095ad97351eb0000754c1e6" start="20261101192000 +0000" stop="20261101201100 +0000">
+        <title>Hell’s Kitchen</title>
+        <desc>El primer desafío para los once Chefs restantes: hacer una pizza gourmet. Los ganadores disfrutan de hamburguesas gourmet en Santa Bárbara mientras los perdedores preparan la cena.</desc>
+        <icon src="https://images.pluto.tv/series/6176bd2d4f409e001a4a4f0c/tile_1769209561389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6095ad97351eb0000754c1e6" start="20261101201100 +0000" stop="20261101230000 +0000">
         <title>Hells Kitchen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40580,7 +40680,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Hoy en día ningún fabricante de coches puede renunciar a los SUV. Tres modelos de este tipo de coches increíblemente deportivos son el Porsche Macan Turbo, el Mercedes GLA 45 AMG y el Audi RSQ3.</desc>
         <icon src="https://images.pluto.tv/series/60df1b2aaf6eb3001304ef1b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e5ea9a9bb4200008376f76" start="20261101190700 +0000" stop="20261101230000 +0000">
+    <programme channel="60e5ea9a9bb4200008376f76" start="20261101190700 +0000" stop="20261101193600 +0000">
+        <title>Superautos</title>
+        <desc>El Bentley New Flying Spur y el Rolls Royce Wraith son coches muy exclusivos. Con más de 600 CV, estos lujosos y potentes vehículos ofrecen una experiencia de conducción inigualable...</desc>
+        <icon src="https://images.pluto.tv/series/60df1b2aaf6eb3001304ef1b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e5ea9a9bb4200008376f76" start="20261101193600 +0000" stop="20261101200700 +0000">
+        <title>4x4</title>
+        <desc>Los Vehículos Utilitarios Urbanos son la última tendencia en el mundo del automóvil. No están hechos para terreno sin asfaltar, pero atraen a los clientes por su diseño moderno y urbano. En este episodio, el Subaru XV muestra sus habilidades offroad y...</desc>
+        <icon src="https://images.pluto.tv/series/6079a97d726ca7001a90ba31/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e5ea9a9bb4200008376f76" start="20261101200700 +0000" stop="20261101230000 +0000">
         <title>Motorvision TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40590,7 +40700,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros en todo el mundo. No se trata de entrenar perros, sino de entrenar personas para tener perros.</desc>
         <icon src="https://images.pluto.tv/series/614ddb7873f7ab0013ac9528/tile_1769208481399.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61099f2b40d0640007fc5aa2" start="20261101192300 +0000" stop="20261101230000 +0000">
+    <programme channel="61099f2b40d0640007fc5aa2" start="20261101192300 +0000" stop="20261101202100 +0000">
+        <title>El Encantador de Perros</title>
+        <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros en todo el mundo. No se trata de entrenar perros, sino de entrenar personas para tener perros.</desc>
+        <icon src="https://images.pluto.tv/series/614ddb7873f7ab0013ac9528/tile_1769208481399.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61099f2b40d0640007fc5aa2" start="20261101202100 +0000" stop="20261101230000 +0000">
         <title>El Encantador de Perros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40600,7 +40715,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Las chicas juntas  ¿Cuánto va a durar eso? Y los chicos con las Doñas divorciadas.</desc>
         <icon src="https://images.pluto.tv/series/66eadcfd85f1df0013e27f39/tile_1779176881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61a52615cbef2500072876e2" start="20261101190100 +0000" stop="20261101230000 +0000">
+    <programme channel="61a52615cbef2500072876e2" start="20261101190100 +0000" stop="20261101195300 +0000">
+        <title>Acapulco Shore</title>
+        <desc>La cruda moral de Fernando. Mane y Thalía se agarraron a golpes ¿Quién comenzó todo?</desc>
+        <icon src="https://images.pluto.tv/series/66eadcfd85f1df0013e27f39/tile_1779176881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61a52615cbef2500072876e2" start="20261101195300 +0000" stop="20261101204600 +0000">
+        <title>Acapulco Shore</title>
+        <desc>¿Thalía se va?.. Para siempre ¿Y ahora qué pasará con Brenda?</desc>
+        <icon src="https://images.pluto.tv/series/66eadcfd85f1df0013e27f39/tile_1779176881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61a52615cbef2500072876e2" start="20261101204600 +0000" stop="20261101230000 +0000">
         <title>Acapulco Shore Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61a52615cbef2500072876e2/featuredImage-1757349444310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40610,7 +40735,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
         <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261101193000 +0000" stop="20261101230000 +0000">
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261101193000 +0000" stop="20261101200000 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261101200000 +0000" stop="20261101203000 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20261101203000 +0000" stop="20261101230000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40620,7 +40755,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El aeropuerto Narsarsuaq de Groenlandia, conocido como uno de los enfoques más peligrosos del mundo, se vislumbra en el horizonte cuando Cory y Justin comienzan un viaje transglobal.</desc>
         <icon src="https://images.pluto.tv/series/620692c7a1a8490014076257/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62154548a2be360007cb02f0" start="20261101195200 +0000" stop="20261101230000 +0000">
+    <programme channel="62154548a2be360007cb02f0" start="20261101195200 +0000" stop="20261101204400 +0000">
+        <title>Pilotos del Ártico</title>
+        <desc>Joe y Mikey alquilan un helicóptero para una misión de rescate para recuperar el raro cordal de un Lockheed 10-A que se estrelló en los bosques de Yellowknife hace cuarenta años.</desc>
+        <icon src="https://images.pluto.tv/series/620692c7a1a8490014076257/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62154548a2be360007cb02f0" start="20261101204400 +0000" stop="20261101230000 +0000">
         <title>Ice Pilots</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62154548a2be360007cb02f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40630,7 +40770,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
         <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20261101190500 +0000" stop="20261101230000 +0000">
+    <programme channel="625461ef01f27a0007976ad1" start="20261101190500 +0000" stop="20261101193500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20261101193500 +0000" stop="20261101200500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20261101200500 +0000" stop="20261101230000 +0000">
         <title>MTV Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40640,7 +40790,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Mel llega demostrando intimidad con Miguel, su ex. Salen juntos, pero Miguel ya dice que está saliendo.</desc>
         <icon src="https://images.pluto.tv/series/635c2ae941c09800149e8687/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638693db857364000781b471" start="20261101193100 +0000" stop="20261101230000 +0000">
+    <programme channel="638693db857364000781b471" start="20261101193100 +0000" stop="20261101203000 +0000">
+        <title>Ex on the Beach Brazil</title>
+        <desc>En un ambiente de despedida y con la casa llena, se iza la Bandera Roja y la tableta advierte: No todo es lo que parece. El tiempo se calienta y salvan cuentas.</desc>
+        <icon src="https://images.pluto.tv/series/635c2ae941c09800149e8687/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638693db857364000781b471" start="20261101203000 +0000" stop="20261101230000 +0000">
         <title>MTV Con Mi Ex</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638693db857364000781b471/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40650,7 +40805,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>La batalla de Danny con la pesadilla Z28 sigue cuando lo somete a una infinita elaboración para hacerlo recobrar vida. Mientras lo revive, Danny hace una pausa para visitar la colección de autos de Steve Barton y ver si lo puede convencer de vender.</desc>
         <icon src="https://images.pluto.tv/series/5e2b6b89f07a73f7a9b940c2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64025592953da40008bf9238" start="20261101190100 +0000" stop="20261101230000 +0000">
+    <programme channel="64025592953da40008bf9238" start="20261101190100 +0000" stop="20261101192500 +0000">
+        <title>Locos Por los Autos</title>
+        <desc>El exguitarrista de Guns &amp; Roses DJ Ashba llega a Count's Kustoms en un Lamborghini Murciélago de 2004 que quiere convertir en el mejor “auto de hombre”, pero Danny debe asegurarse de que incluya algo especial para la esposa de DJ.</desc>
+        <icon src="https://images.pluto.tv/series/5e2b6b89f07a73f7a9b940c2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64025592953da40008bf9238" start="20261101192500 +0000" stop="20261101194900 +0000">
+        <title>Locos Por los Autos</title>
+        <desc>Danny debe cederle su preciado Monte Carlo de 1972 a uno de sus mayores clientes y cuenta con su equipo para terminar el trabajo en una semana. Mientras tanto, Ryan y Mike dan el paseo de sus vidas en un Fastback Mustang de 1965.</desc>
+        <icon src="https://images.pluto.tv/series/5e2b6b89f07a73f7a9b940c2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64025592953da40008bf9238" start="20261101194900 +0000" stop="20261101201300 +0000">
+        <title>Locos Por los Autos</title>
+        <desc>Danny recibe un buggy para adornar con el estilo extravagante de Count's Kustoms, y luego se mete en un vehículo con muchos más caballos de fuerza en la Fundación Shelby Heritage. También Mike y Roli se dedican a un Karmann Ghia clásico.</desc>
+        <icon src="https://images.pluto.tv/series/5e2b6b89f07a73f7a9b940c2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64025592953da40008bf9238" start="20261101201300 +0000" stop="20261101230000 +0000">
         <title>Obsesión por los Autos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64025592953da40008bf9238/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40660,7 +40830,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Las reinas se ponen picantes mientras discuten las imitaciones de celebridades de cada una. Una de las reinas contrataca cuando es confrontada.</desc>
         <icon src="https://images.pluto.tv/series/645e5308f2a541001b59bbb9/tile_1769544721750.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64510d3ad3fdde00080951f2" start="20261101191300 +0000" stop="20261101230000 +0000">
+    <programme channel="64510d3ad3fdde00080951f2" start="20261101191300 +0000" stop="20261101193800 +0000">
+        <title>RuPaul's Drag Race Untucked</title>
+        <desc>Mientras los jueces deliberan, los ánimos se irritan cuando las reinas comienzan una fuerte discusión sobre el desafío de atuendos de novia.</desc>
+        <icon src="https://images.pluto.tv/series/645e5308f2a541001b59bbb9/tile_1769544721750.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64510d3ad3fdde00080951f2" start="20261101193800 +0000" stop="20261101200300 +0000">
+        <title>RuPaul's Drag Race Untucked</title>
+        <desc>Las reinas critican los atuendos rockeros de las demás. Una reina se encuentra muy decepcionada con su presentación cantando en vivo.</desc>
+        <icon src="https://images.pluto.tv/series/645e5308f2a541001b59bbb9/tile_1769544721750.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64510d3ad3fdde00080951f2" start="20261101200300 +0000" stop="20261101230000 +0000">
         <title>MTV Drag</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40680,7 +40860,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>En este episodio de Mi Coche Clasico, Dennis viaja a Penticton, BC, para realizar un crucero por la playa de Peach City.</desc>
         <icon src="https://images.pluto.tv/series/652010108026ff001a0ac063/tile_1769464442839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656e2536fbc15b00084ae29d" start="20261101190900 +0000" stop="20261101230000 +0000">
+    <programme channel="656e2536fbc15b00084ae29d" start="20261101190900 +0000" stop="20261101192900 +0000">
+        <title>Mi Coche Clasico</title>
+        <desc>En este episodio de Mi Coche Clasico, Dennis da una vuelta en tres hot rods salvajes.</desc>
+        <icon src="https://images.pluto.tv/series/652010108026ff001a0ac063/tile_1769464442839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e2536fbc15b00084ae29d" start="20261101192900 +0000" stop="20261101194900 +0000">
+        <title>Mi Coche Clasico</title>
+        <desc>En este episodio de Mi Coche Clasico, Dennis está en Evansville, IN, para el Eville Shindig.</desc>
+        <icon src="https://images.pluto.tv/series/652010108026ff001a0ac063/tile_1769464442839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e2536fbc15b00084ae29d" start="20261101194900 +0000" stop="20261101200900 +0000">
+        <title>Mi Coche Clasico</title>
+        <desc>En este episodio de Mi Coche Clasico, Dennis echa un vistazo a la colección de Dick Woodland en Paso Robles, CA.</desc>
+        <icon src="https://images.pluto.tv/series/652010108026ff001a0ac063/tile_1769464442839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e2536fbc15b00084ae29d" start="20261101200900 +0000" stop="20261101230000 +0000">
         <title>Mi Coche Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40690,7 +40885,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Monstruos de Rio</desc>
         <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a92375cd0d31000847b219" start="20261101193000 +0000" stop="20261101230000 +0000">
+    <programme channel="66a92375cd0d31000847b219" start="20261101193000 +0000" stop="20261101200000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20261101200000 +0000" stop="20261101203000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20261101203000 +0000" stop="20261101230000 +0000">
         <title>Monstruos de Rio</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a92375cd0d31000847b219/featuredImage_1751039635488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40700,7 +40905,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
         <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20261101193000 +0000" stop="20261101230000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20261101193000 +0000" stop="20261101200000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20261101200000 +0000" stop="20261101203000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20261101203000 +0000" stop="20261101230000 +0000">
         <title>NatureTime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40710,7 +40925,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
         <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20261101192700 +0000" stop="20261101230000 +0000">
+    <programme channel="6851b909954170e0128bc71d" start="20261101192700 +0000" stop="20261101195700 +0000">
+        <title>Ink Master</title>
+        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
+        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20261101195700 +0000" stop="20261101202700 +0000">
+        <title>Ink Master</title>
+        <desc>Ink Master en Pluto TV reúne a los mejores tatuadores del país en una competencia feroz, donde luchan por 100.000 dólares y el codiciado título de Ink Master.</desc>
+        <icon src="https://images.pluto.tv/series/6a57903c088c818e20644f95/tile_1784123619140.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20261101202700 +0000" stop="20261101230000 +0000">
         <title>MTV Ink Master</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6851b909954170e0128bc71d/featuredImage_1783961514793.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40720,7 +40945,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>A record-breaking twister rips through the city of Tuscaloosa, Ala.</desc>
         <icon src="https://images.pluto.tv/series/6a021321163f325335459493/tile_1778520866321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b784d03e17b7676a0378f7" start="20261101192600 +0000" stop="20261101230000 +0000">
+    <programme channel="68b784d03e17b7676a0378f7" start="20261101192600 +0000" stop="20261101202400 +0000">
+        <title>World's Deadliest Weather</title>
+        <desc>Hurricane Harvey rips a coastal town apart and dumps a once-in-a-thousand-year rainfall that drowns the city of Houston.</desc>
+        <icon src="https://images.pluto.tv/series/6a021321163f325335459493/tile_1778520866321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b784d03e17b7676a0378f7" start="20261101202400 +0000" stop="20261101230000 +0000">
         <title>Shockwave</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/featuredImage_1760108950505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40740,7 +40970,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Los cocineros de MasterChef Junior se enfrentaron a un reto por parejas, pero tuvieron que hacerlo amarrados el uno del otro.</desc>
         <icon src="https://images.pluto.tv/series/642d956064898f001a12436b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69fcaa71ea95ffff0987f555" start="20261101194721 +0000" stop="20261101230000 +0000">
+    <programme channel="69fcaa71ea95ffff0987f555" start="20261101194721 +0000" stop="20261101203821 +0000">
+        <title>MasterChef Colombia Junior Season 1 LT</title>
+        <desc>Los participantes que aún quedan en competencia, participaron en un nuevo ‘reto de campo’, en el que cocinaron pollo frito y pollo asado en el Parque Simón Bolívar.</desc>
+        <icon src="https://images.pluto.tv/series/642d956064898f001a12436b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69fcaa71ea95ffff0987f555" start="20261101203821 +0000" stop="20261101230000 +0000">
         <title>MasterChef Colombia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/featuredImage_1779730748951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41356,7 +41591,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¡La Tía Mito recibe otra carta de Gon!</desc>
         <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde17bf6591d0009839e02" start="20261101190100 +0000" stop="20261101230000 +0000">
+    <programme channel="5dcde17bf6591d0009839e02" start="20261101190100 +0000" stop="20261101193000 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Killua pelea contra Zushi y siente que su extraña técnica es similar a la utilizada por Illumi.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20261101193000 +0000" stop="20261101195900 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>El mentor de Zushi, Wing, le cuenta a Gon y Killua sobre la existencia de algo conocido como Nen.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20261101195900 +0000" stop="20261101202800 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Para romper la barrera Nen de Hisoka, Gon y Killua le piden a Wing que les permita despertar sus habilidades Nen.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20261101202800 +0000" stop="20261101230000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41366,7 +41616,27 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Maya y Willy descubren una flor que hace delicioso néctar. ¡Pero sólo queda uno en el prado! Maya decide polinizar la flor para crear nuevas flores</desc>
         <icon src="https://images.pluto.tv/series/5fdcfee259c69f001a2472e4/tile_1769190121640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101191000 +0000" stop="20261101230000 +0000">
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101191000 +0000" stop="20261101192400 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Max está enamorado de una hermosa oruga. Ayudado por Maya, trata de convertirse en su amigo y pasar algún tiempo con ella. ¡Pero de repente, ella desaparece para convertirse en una mariposa!</desc>
+        <icon src="https://images.pluto.tv/series/5fdcfee259c69f001a2472e4/tile_1769190121640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101192400 +0000" stop="20261101193800 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Tekla está enferma, pero nadie se atreve a acercarse a ella. Maya siente lástima por ella y decide ayudarla. Ella le pregunta a la Reina si puede conseguir algún propóleo para curarla, pero la Reina se niega</desc>
+        <icon src="https://images.pluto.tv/series/5fdcfee259c69f001a2472e4/tile_1769190121640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101193800 +0000" stop="20261101195200 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Para una fiesta, la Reina quiere volver a ver a un famoso cantante de abejas, que solía hacer equipo con el músico Flip. Maya decide encontrarlo, Pero la abeja ya no quiere cantar</desc>
+        <icon src="https://images.pluto.tv/series/5fdcfee259c69f001a2472e4/tile_1769190121640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101195200 +0000" stop="20261101200600 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Max ya no puede dormir. Algo hace ruidos extraños en sus galerías. Maya Flip y Willy deciden salir para una gran exploración, y descubrirán un mundo subterráneo completamente nuevo!</desc>
+        <icon src="https://images.pluto.tv/series/5fdcfee259c69f001a2472e4/tile_1769190121640.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20261101200600 +0000" stop="20261101230000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41376,7 +41646,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¡Chínta, la bebé Chintilla está perdida! Está en la rama de un árbol encima del río, pero corre peligro de caerse por lo que Diego transforma a Mochila en un planeador para salvarla antes de caiga.</desc>
         <icon src="https://images.pluto.tv/series/6ae5129f5db95e3dac805611/tile_1793397407884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20261101191922 +0000" stop="20261101230000 +0000">
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20261101191922 +0000" stop="20261101194400 +0000">
+        <title>Go, Diego, Go!</title>
+        <desc>Sammy, la perezosa está visitando a Diego en el Centro de Animales Rescatados cuando reciben una llamada de ayuda.</desc>
+        <icon src="https://images.pluto.tv/series/6ae5129f5db95e3dac805611/tile_1793397407884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20261101194400 +0000" stop="20261101200730 +0000">
+        <title>Shimmer y Shine</title>
+        <desc>Las hermanas genios, Shimmer y Shine, conocen a Leah por primera vez luego de que ella ganara un collar de botella de genio en la feria. Acompaña a las gemelas genios mientras le conceden tres deseos divinos del tamaño de un elefante.</desc>
+        <icon src="https://images.pluto.tv/series/6ae512a0201a26e8b102a0d0/tile_1793397409240.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20261101200730 +0000" stop="20261101230000 +0000">
         <title>Nick Jr. Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage_1748446520796.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41386,7 +41666,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>A Tommy le da hipo y Angélica se ofrece a asustarlo para que se le quite. / Cuando llega el otoño, los Rugrats creen que los árboles están enfermos, al ver que las hojas se caen y cambian de color. Tommy encabeza una campaña para curarlos.</desc>
         <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ea7215005d66d0007e8128a" start="20261101190400 +0000" stop="20261101230000 +0000">
+    <programme channel="5ea7215005d66d0007e8128a" start="20261101190400 +0000" stop="20261101193300 +0000">
+        <title>Rugrats</title>
+        <desc>Es la hora de la limpieza y los Rugrats creen que las motas de polvo son unos conejos que están en su contra. / Angélica debe ir a preescolar, en donde tiene problemas para compartir su juguete favorito con otros niños.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20261101193300 +0000" stop="20261101200200 +0000">
+        <title>Rugrats</title>
+        <desc>Angélica planea conseguir los dulces de los bebés fingiendo que su muñeca Cynthia ha sido secuestrada. / Los Rugrats se separan de sus padres en un centro comercial e intentan reunir de vuelta a una tortuga con su padre.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20261101200200 +0000" stop="20261101230000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41396,7 +41686,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El ninja enmascarado y Naruto caen hacia las profundidades del valle. Mientras cura las heridas de Naruto, el ninja enmascarado le cuenta por qué ha robado la estrella.</desc>
         <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ee92e72fb286e0007285fec" start="20261101191900 +0000" stop="20261101230000 +0000">
+    <programme channel="5ee92e72fb286e0007285fec" start="20261101191900 +0000" stop="20261101194900 +0000">
+        <title>Naruto: ¡Queda poco tiempo!</title>
+        <desc>El cuerpo de Natsuhi reacciona a los efectos de la estrella. Utilizando la estrella, Natsuhi se enfrenta desesperadamente a Akahoshi, pero Sumaru es secuestrado.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20261101194900 +0000" stop="20261101201900 +0000">
+        <title>Naruto: La brillante luz de la estrella</title>
+        <desc>Sumaru siente la muerte de su madre y enfurece. Naruto es incapaz de evitar que se marche corriendo. Con el objetivo de salvar a Sumaru, Hokuto y Mizura arriesgan sus vidas para revelar la verdad acerca del entrenamiento estrella.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20261101201900 +0000" stop="20261101230000 +0000">
         <title>Naruto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41406,7 +41706,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f4d3d06fb60d8000781fce8" start="20261101190300 +0000" stop="20261101230000 +0000">
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20261101190300 +0000" stop="20261101193400 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20261101193400 +0000" stop="20261101200100 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20261101200100 +0000" stop="20261101230000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41416,7 +41726,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
         <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20261101191445 +0000" stop="20261101230000 +0000">
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261101191445 +0000" stop="20261101194445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261101194445 +0000" stop="20261101201445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20261101201445 +0000" stop="20261101230000 +0000">
         <title>Nickelodeon Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage_1749640836366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41426,7 +41746,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Los Rockmore deciden hacer un viaje en familia y Kel se esconde en el auto para viajar con ellos. Mientras pasan su primera noche en un campamento, Kenan tiene un encuentro con un misterioso ser conocido como el Caballero Sin Cabeza.</desc>
         <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1786440961324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fcea93ffcf94500071c4b2f" start="20261101191700 +0000" stop="20261101230000 +0000">
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20261101191700 +0000" stop="20261101194600 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Cuando el auto familiar se rompe, Kenan y Kel salen a buscar ayuda y acaban siendo invitados a cenar a la mansión de un hombre desconocido. Pero pronto comienzan a sospechar que está ocultando algo.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1786440961324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20261101194600 +0000" stop="20261101201500 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Kenan demanda a una compañía pesquera luego de que casi se ahoga con un tornillo que supuestamente se infiltró en una de sus latas de atún.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1786440961324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20261101201500 +0000" stop="20261101230000 +0000">
         <title>Kenan y Kel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41436,7 +41766,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Con El Sello de Orichalcos, Gurimo no solo puede tener diez monstruos a la vez, sino que cada criatura recibe un impulso de poder de las energías malévolas de Orichalcos!</desc>
         <icon src="https://images.pluto.tv/series/5f19972aefe562001369966c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fceaab478f2af00080ff51f" start="20261101190300 +0000" stop="20261101230000 +0000">
+    <programme channel="5fceaab478f2af00080ff51f" start="20261101190300 +0000" stop="20261101192800 +0000">
+        <title>Yu-Gi-Oh!</title>
+        <desc>¡No solo nuestro mundo está al borde del apocalipsis, sino que todo un dominio de monstruos también está al borde del colapso! ¡La Tierra y el dominio de los monstruos deben unirse y luchar contra el terror más grande que jamás hayan enfrentado!</desc>
+        <icon src="https://images.pluto.tv/series/5f19972aefe562001369966c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20261101192800 +0000" stop="20261101195300 +0000">
+        <title>Yu-Gi-Oh!</title>
+        <desc>Yugi y la pandilla emprendieron una caminata a través del país cuando se les pidió ayuda de un antiguo enemigo tuerto.</desc>
+        <icon src="https://images.pluto.tv/series/5f19972aefe562001369966c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20261101195300 +0000" stop="20261101201700 +0000">
+        <title>Yu-Gi-Oh!</title>
+        <desc>¡Kaiba regresa al Duelist Kingdom para un enfrentamiento contra Pegaso! ¿Kaiba descubrirá el secreto detrás de las estrategias de Pegasus antes de que pierda su alma, tal como lo hizo en su primer viaje al Duelist Kingdom?</desc>
+        <icon src="https://images.pluto.tv/series/5f19972aefe562001369966c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20261101201700 +0000" stop="20261101230000 +0000">
         <title>Yu-Gi-Oh</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41446,7 +41791,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>En México también se desarrollan videojuegos en Expansion Pack, te mostramos algunos, recordamos a una leyenda del PS1, “Legacy of Kain: Soul Reaver”, además, hoy conocerás a fondo al polémico Hideo Kojima y viajamos al Tokyo Game Show.</desc>
         <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff3934600d4c7000733ff49" start="20261101190700 +0000" stop="20261101230000 +0000">
+    <programme channel="5ff3934600d4c7000733ff49" start="20261101190700 +0000" stop="20261101193600 +0000">
+        <title>Expansion Pack</title>
+        <desc>Las leyendas eran ciertas… el Nintendo PlayStation sí existió y en Expansión Pack te contamos el chismecito. “Doom” llega para mostrarnos cómo un clásico puede evolucionar, y los juegos que terminaron siendo muy diferentes a su concepto original.</desc>
+        <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff3934600d4c7000733ff49" start="20261101193600 +0000" stop="20261101200400 +0000">
+        <title>Expansion Pack</title>
+        <desc>En este Expansion Pack recordamos al gran “Conker’s Bad Fur Day”. También te decimos todo lo que hay que saber de Elli de “The Last of Us”, y echamos ojo a las series basadas en videojuegos que hacen honor a las franquicias.</desc>
+        <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff3934600d4c7000733ff49" start="20261101200400 +0000" stop="20261101230000 +0000">
         <title>Pluto TV E-Sports</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41456,7 +41811,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Usopp descubre la habitación donde está el cuerpo verdadero de Perona y pasa a ganar la pelea a base de mentiras y engaños. Por su parte, Luffy sigue atacando a Moria sin conseguir lastimarlo.</desc>
         <icon src="https://images.pluto.tv/series/628f88eac6bf11001ae4cf65/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff4b9ccf938f8000779eb99" start="20261101190500 +0000" stop="20261101230000 +0000">
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20261101190500 +0000" stop="20261101193400 +0000">
+        <title>One Piece - Thriller Bark Saga</title>
+        <desc>Acabada la pelea entre Usopp y Perona, ahora es el turno del enfrentamiento de espadachines, Zoro con su Nitouryuu y el samurái del Reino de Waino, Ryuuma.</desc>
+        <icon src="https://images.pluto.tv/series/628f88eac6bf11001ae4cf65/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20261101193400 +0000" stop="20261101200300 +0000">
+        <title>One Piece - Thriller Bark Saga</title>
+        <desc>Es el turno de Chopper, quien quiere derrotar a Hogback para evitar que siga "reviviendo" personas. Hogback le cuenta su pasado y cómo conoció a Moria.</desc>
+        <icon src="https://images.pluto.tv/series/628f88eac6bf11001ae4cf65/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20261101200300 +0000" stop="20261101230000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/featuredImage-1663941434061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41466,7 +41831,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Aparece Kamen Rider Ginga, procedente del espacio. Finalmente, consciente de quién es Another Kiva, Sougo se acerca a ella en un intento de hacer las paces. Mientras tanto, Geiz viaja al 2015 para averiguar qué pasó con el primer amor de Sougo.</desc>
         <icon src="https://images.pluto.tv/series/603e8ba7ffe774001ad4a876/tile_1769194571357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff608e60e2996000768c366" start="20261101192400 +0000" stop="20261101230000 +0000">
+    <programme channel="5ff608e60e2996000768c366" start="20261101192400 +0000" stop="20261101195300 +0000">
+        <title>Kamen Rider ZI-O</title>
+        <desc>Los meteoritos comenzaron a caer con frecuencia en la ciudad, y traen consigo seres llamados Gusanos. Con otro peligro inminente, Sougo y sus amigos corren hacia la ubicación de los meteoros y encuentran a Kagami Arata, Kamen Rider Gatack.</desc>
+        <icon src="https://images.pluto.tv/series/603e8ba7ffe774001ad4a876/tile_1769194571357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20261101195300 +0000" stop="20261101202200 +0000">
+        <title>Kamen Rider ZI-O</title>
+        <desc>Sougo parece haber destruido uno de los meteoros en el espacio usando la armadura Fourze, pero para su sorpresa, justo detrás del meteoro que destruyó, ¡aparece un meteoro aún más grande!</desc>
+        <icon src="https://images.pluto.tv/series/603e8ba7ffe774001ad4a876/tile_1769194571357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20261101202200 +0000" stop="20261101230000 +0000">
         <title>Tokusato</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff608e60e2996000768c366/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41476,7 +41851,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Conoce a Pinkfong y Hogi, el equipo Wonderstar. Ellos son dos mágicos mejores amigos que iniciaron un servicio de ayuda para resolver los problemas de sus amigos en Wonderville. ¡NADA ES IMPOSIBLE PARA WONDERSTAR! CONFIA EN NOSOTROS.</desc>
         <icon src="https://images.pluto.tv/series/641c9940b6e5cf001ac36572/tile_1769542203324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619d5e6a093e7c0007489211" start="20261101191700 +0000" stop="20261101230000 +0000">
+    <programme channel="619d5e6a093e7c0007489211" start="20261101191700 +0000" stop="20261101194400 +0000">
+        <title>Pinkfong Wonderstar Part 1 - Season 1 LATAM</title>
+        <desc>Conoce a Pinkfong y Hogi, el equipo Wonderstar. Ellos son dos mágicos mejores amigos que iniciaron un servicio de ayuda para resolver los problemas de sus amigos en Wonderville. ¡NADA ES IMPOSIBLE PARA WONDERSTAR! CONFIA EN NOSOTROS.</desc>
+        <icon src="https://images.pluto.tv/series/641c9940b6e5cf001ac36572/tile_1769542203324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20261101194400 +0000" stop="20261101200100 +0000">
+        <title>Pinkfong ¡Baila, Baila!</title>
+        <desc>¡Ven a escuchar las canciones de Pinkfong y sus amigos, y bailemos junto con ellos!</desc>
+        <icon src="https://images.pluto.tv/series/641c7348737654001d6e056d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20261101200100 +0000" stop="20261101230000 +0000">
         <title>Baby Shark TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41486,7 +41871,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El nuevo trabajo de Freddie se convierte en una pesadilla cuando sus amigos lo visitan y Sam logra venderle una computadora a alguien sólo hablándole de lo bonita que es, finalmente ella termina siendo contratada</desc>
         <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1781024798352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620ff0a01f9e8700076c6f9d" start="20261101190400 +0000" stop="20261101230000 +0000">
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20261101190400 +0000" stop="20261101193300 +0000">
+        <title>iCarly: Medioween</title>
+        <desc>Los chicos de iCarly harán la fiesta de Medioween porque creen que el Halloween debe ser dos veces al año, pero Nevel les hace una broma a Carly y a sus amigos y la fiesta se sale de control</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1781024798352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20261101193300 +0000" stop="20261101200200 +0000">
+        <title>iCarly: El phaser</title>
+        <desc>Spencer tiene nuevo némesis, el hermano menor y de Chuck, Chip. Mientras tanto, Gibby se compra un Phaser pero Sam la rompe de casualidad. Finalmente Freddie repara el Phaser de juguete de Gibby, dándole más poder que nunca</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1781024798352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20261101200200 +0000" stop="20261101230000 +0000">
         <title>Nickelodeon iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41496,7 +41891,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Bob Esponja Pantalones Cuadrados</desc>
         <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6254598f5083f800076d8563" start="20261101200000 +0000" stop="20261101230000 +0000">
+    <programme channel="6254598f5083f800076d8563" start="20261101200000 +0000" stop="20261101210000 +0000">
+        <title>Bob Esponja Pantalones Cuadrados</title>
+        <desc>Bob Esponja Pantalones Cuadrados</desc>
+        <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6254598f5083f800076d8563" start="20261101210000 +0000" stop="20261101230000 +0000">
         <title>Bob Esponja Pantalones Cuadrados</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage_1792528902585.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41506,7 +41906,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Las sospechas de L se profundizan, Light lo persuade de invitarlo a la investigación, pero en ese momento una llamada de teléfono les avisa que ¡Soichiro Yagami ha sufrido un ataque al corazón!</desc>
         <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="626c2ed933a2890007e91422" start="20261101190800 +0000" stop="20261101230000 +0000">
+    <programme channel="626c2ed933a2890007e91422" start="20261101190800 +0000" stop="20261101193800 +0000">
+        <title>Death Note</title>
+        <desc>Como se predijo en las cintas enviadas a Sakura TV, presentadores de noticias y comentaristas que expresaron dudas sobre Kira mueren uno por uno. Siguiendo las muertes, L concluye que existe un segundo Kira.</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20261101193800 +0000" stop="20261101200800 +0000">
+        <title>Death Note</title>
+        <desc>Con un segundo Kira suelto, L le pide a Light que se una al grupo de trabajo y se haga pasar por el verdadero Kira para atrapar al imitador.</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20261101200800 +0000" stop="20261101230000 +0000">
         <title>Death Note</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41516,7 +41926,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¡Regresó Foop! Foop escapó de prisión y convenció a Cosmo y Wanda de que había cambiado y estaba listo para jugar con Poof./Cuando Timmy desea ser la mascota del maestro, Poof toma su deseo de verdad.</desc>
         <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6322099c822bbc00074857db" start="20261101191600 +0000" stop="20261101230000 +0000">
+    <programme channel="6322099c822bbc00074857db" start="20261101191600 +0000" stop="20261101194500 +0000">
+        <title>Los Padrinos Mágicos</title>
+        <desc>Cuando Timmy descubre que ser Mamá es más fácil que ser un niño, Wanda toma el anzuelo y cambia los cerebros. / Frustrado por no poder atrapar padrinos mágicos, Crocker desvía su atención a la caza de otra criatura mágica: duendes.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20261101194500 +0000" stop="20261101201400 +0000">
+        <title>Los Padrinos Mágicos</title>
+        <desc>En sus vacaciones a Hawaii, Timmy, sin querer, desea que sus padres sean los mejores surfistas del mundo./Cuando Mamá y Papá confunden a Cosmo con un fantasma, Timmy desea que todas las hadas simulasen ser fantasmas.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20261101201400 +0000" stop="20261101230000 +0000">
         <title>Los Padrinos Mágicos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage_1767810452011.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41526,7 +41946,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
         <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645952687cb4b100084ed52e" start="20261101190700 +0000" stop="20261101230000 +0000">
+    <programme channel="645952687cb4b100084ed52e" start="20261101190700 +0000" stop="20261101193700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20261101193700 +0000" stop="20261101200700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20261101200700 +0000" stop="20261101230000 +0000">
         <title>Nickelodeon Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645952687cb4b100084ed52e/featuredImage_1755273609270.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41536,7 +41966,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Roberto Hongo, habla con Katagiri en las afueras de París y no quiere que Tsubasa se entere que está a sólo kilómetros de distancia. Como ex entrenador de Tsubasa, Roberto todavía se siente culpable de haber roto la promesa que le hizo.</desc>
         <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64666345f3f5b1000882bfb4" start="20261101192800 +0000" stop="20261101230000 +0000">
+    <programme channel="64666345f3f5b1000882bfb4" start="20261101192800 +0000" stop="20261101195800 +0000">
+        <title>Captain Tsubasa: Junior Youth Arc</title>
+        <desc>Japón enfrenta a Argentina y el ganador pasa a la final. Tsubasa, sin embargo, está preocupado. Mientras está en el campo se entera de que su ex entrenador Roberto, a quien no ha visto en un largo tiempo, está observando desde las gradas.</desc>
+        <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20261101195800 +0000" stop="20261101202800 +0000">
+        <title>Captain Tsubasa: Junior Youth Arc</title>
+        <desc>Mientras Japón se recupera de la última hazaña futbolística de Díaz, Tsubasa y Hyuga unen fuerzas para un ataque especial. Tsubasa recupera su ritmo. Aprovechando, los Gemelos Tachibana y Jito corren hacia la meta. ¡El momento de contraatacar es ahora!</desc>
+        <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20261101202800 +0000" stop="20261101230000 +0000">
         <title>Captain Tsubasa</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41546,7 +41986,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Naruto sufre por la muerte de Neji, pero las palabras de Hinata restauran su espíritu de lucha.</desc>
         <icon src="https://images.pluto.tv/series/6a0f8ba68eee0f23e734eb42/tile_1779403686773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c92fea3c3344000869e8a9" start="20261101190600 +0000" stop="20261101230000 +0000">
+    <programme channel="64c92fea3c3344000869e8a9" start="20261101190600 +0000" stop="20261101193400 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>Sasuke va a la Hoja y delante de él están los Cuatro Hokage, todos reanimados.</desc>
+        <icon src="https://images.pluto.tv/series/6a0f8ba68eee0f23e734eb42/tile_1779403686773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20261101193400 +0000" stop="20261101200200 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>Cuando Hashirama era un niño, Fue que conocío a Madara Uchiha.</desc>
+        <icon src="https://images.pluto.tv/series/6a0f8ba68eee0f23e734eb42/tile_1779403686773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20261101200200 +0000" stop="20261101230000 +0000">
         <title>Naruto Shippuden</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41556,7 +42006,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Usando la Técnica de transportación, Sasuke llega a un extraño lugar que está cubierto de misteriosas inscripciones. Ahí encuentra muchas cosas sorprendentes sobre el Clan OTSUTSUKI.</desc>
         <icon src="https://images.pluto.tv/series/69e651b83f22a165b0909073/tile_1780324181493.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656f37f257fe4a000884dfee" start="20261101191200 +0000" stop="20261101230000 +0000">
+    <programme channel="656f37f257fe4a000884dfee" start="20261101191200 +0000" stop="20261101194100 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>¡Una confrontación entre Naruto, el Séptimo Hokage, y Jigen, el líder de Kara, finalmente llega!</desc>
+        <icon src="https://images.pluto.tv/series/69e651b83f22a165b0909073/tile_1780324181493.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20261101194100 +0000" stop="20261101201000 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>Naruto y Sasuke trabajan juntos para derrotar a Jigen en una feroz batalla, pero les cuesta enfrentar sus avanzadas habilidades de batalla y su misterioso jutsu.</desc>
+        <icon src="https://images.pluto.tv/series/69e651b83f22a165b0909073/tile_1780324181493.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20261101201000 +0000" stop="20261101230000 +0000">
         <title>Boruto: Naruto Next Generations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41566,7 +42026,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>El Rey esquiva la embestida de Netero mientras planea su propio ataque.</desc>
         <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d916a2f7f0af0008b6540d" start="20261101190600 +0000" stop="20261101230000 +0000">
+    <programme channel="65d916a2f7f0af0008b6540d" start="20261101190600 +0000" stop="20261101193500 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>A medida que el Rey se aproxima, Netero dice finalmente su nombre.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20261101193500 +0000" stop="20261101200400 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Para salvar al Rey, Pouf decide sacrificarse.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20261101200400 +0000" stop="20261101230000 +0000">
         <title>Hunter x Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41576,7 +42046,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>A pesar de la ayuda de Kagome para frustrarlo, Sesshomaru descubre la ubicación de la tumba del padre de Inuyasha, que contiene una espada que desea.</desc>
         <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b26665d512590008c507b7" start="20261101192700 +0000" stop="20261101230000 +0000">
+    <programme channel="66b26665d512590008c507b7" start="20261101192700 +0000" stop="20261101195700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>Kagome es capaz de sacar la espada Tetsusaiga del altar, y Sesshomaru intenta matarla, enojando a Inuyasha y provocando un duelo de hermanos.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20261101195700 +0000" stop="20261101202700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>Inuyasha y Kagome conocen a un joven samurai llamado Nobunaga, cuyo señor ha sido poseído por un demonio sapo, y partieron para rescatar a una princesa.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20261101202700 +0000" stop="20261101230000 +0000">
         <title>Inuyasha</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b26665d512590008c507b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41586,7 +42066,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>A Lisa Lisa se le ocurre un inteligente plan cuando Joseph y ella se encuentran a Wamuu y Kars esperándolos en el hotel con cientos de sus vampiros.</desc>
         <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c790f780a0af0008583aa4" start="20261101192200 +0000" stop="20261101230000 +0000">
+    <programme channel="66c790f780a0af0008583aa4" start="20261101192200 +0000" stop="20261101195200 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Joseph y Wamuu empiezan su letal carrera de cuadrigas en un antiguo circo. A pesar de conseguir el arma primero, Joseph corre un grave peligro.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20261101195200 +0000" stop="20261101202100 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Joseph contrarresta el ataque final de Wamuu con la bandana de fuego de Caesar. Lisa Lisa reta a Kars a un duelo singular en las ruinas del templo.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20261101202100 +0000" stop="20261101230000 +0000">
         <title>JoJo’s Bizarre Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41596,7 +42086,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Miriam reemplaza a Bob en su trabajo, pero comienza a distanciarse más de lo normal de Helga. / Oskar, quien nunca aprendió a leer, le pide a Arnold que le enseñe.</desc>
         <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1784878922045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c79221b1a34600087e264d" start="20261101190800 +0000" stop="20261101230000 +0000">
+    <programme channel="66c79221b1a34600087e264d" start="20261101190800 +0000" stop="20261101193700 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>Arnold, Gerald, Sid, Stinky y Harold dan un paseo por el parque de noche, teniendo una aventura digna de una leyenda urbana. / Es Viernes 13, y Wolfgang y Edmund se asegurarán que Arnold y Gerald tengan mucha mala suerte.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1784878922045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20261101193700 +0000" stop="20261101200600 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>Big Bob compra un loro de mascota, pero cuando el loro comienza a repetir un poema de Helga para Arnold y se escapa, Helga debe recuperarlo. / Gerald vende tortugas de chocolate de las niñas exploradoras para poder comprar un gocart.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1784878922045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20261101200600 +0000" stop="20261101230000 +0000">
         <title>Hey Arnold!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41606,7 +42106,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Después de sufrir lesiones graves al final de la segunda temporada, Aang despierta a bordo de un barco de la Nación del Fuego. Mientras tanto, Zuko viaja de regreso a casa.</desc>
         <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6759ee82bd523200083b4f0f" start="20261101192900 +0000" stop="20261101230000 +0000">
+    <programme channel="6759ee82bd523200083b4f0f" start="20261101192900 +0000" stop="20261101195800 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>Para camuflarse mejor como verdaderos ciudadanos de la Nación del Fuego, los niños roban ropas tradicionales. Aang explora una escuela de la Nación del Fuego. Zuko visita a su tío en prisión.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20261101195800 +0000" stop="20261101202700 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>Cuando el grupo llega a un pueblo pescadero que se encuentra en sufirmiento, descubren que un misterioso espíritu está ayudando a los aldeanos.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20261101202700 +0000" stop="20261101230000 +0000">
         <title>Avatar: La Leyenda de Aang</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41616,7 +42126,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
         <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6824cda00101510f9eeaa011" start="20261101193000 +0000" stop="20261101230000 +0000">
+    <programme channel="6824cda00101510f9eeaa011" start="20261101193000 +0000" stop="20261101200000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20261101200000 +0000" stop="20261101203000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20261101203000 +0000" stop="20261101230000 +0000">
         <title>Nickelodeon Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41626,7 +42146,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Cuando un Spoink pierde la perla de su cabeza, Ash y sus amigos se ofrecen a buscarla por él.</desc>
         <icon src="https://images.pluto.tv/series/69a9a44b704dcd7b4d9ce9f0/tile_1772725323921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6870072ca9d5c45c3e9466f1" start="20261101192500 +0000" stop="20261101230000 +0000">
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20261101192500 +0000" stop="20261101195000 +0000">
+        <title>Pokémon: Advanced Challenge</title>
+        <desc>Ash, May, y James participan en la Competencia PokéAro, un curioso evento deportivo en el cual los Entrenadores guían a sus Pokémon voladores en una competencia para recolectar aros que cuelgan de globos flotantes.</desc>
+        <icon src="https://images.pluto.tv/series/69a9a44b704dcd7b4d9ce9f0/tile_1772725323921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20261101195000 +0000" stop="20261101201500 +0000">
+        <title>Pokémon: Advanced Challenge</title>
+        <desc>La lucha inicia entre May y Max y entre el Equipo Rocket cuando un Shuppet (un Pokémon que se alimenta de la ira humana) los incita a al conflicto.</desc>
+        <icon src="https://images.pluto.tv/series/69a9a44b704dcd7b4d9ce9f0/tile_1772725323921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20261101201500 +0000" stop="20261101230000 +0000">
         <title>Pokémon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage_1752173303959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41636,7 +42166,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Con una preparación basada en insumos saludables y naturales, se prepara lingote de chocolate y latitas con panqué de maple.</desc>
         <icon src="https://images.pluto.tv/series/6abc19ad9abe27364cd67641/tile_1790712238574.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6894fc3f66f164e402f4fd14" start="20261101191700 +0000" stop="20261101230000 +0000">
+    <programme channel="6894fc3f66f164e402f4fd14" start="20261101191700 +0000" stop="20261101194800 +0000">
+        <title>Repostería con Virginia Sar: Desayunos y meriendas</title>
+        <desc>Virginia Sar trae la mejor bollería para desayunos y meriendas, porque los bagels y pretzels son tan importantes como el resto de las comidas y conviene disfrutar de ellos.</desc>
+        <icon src="https://images.pluto.tv/series/68ac7c97e5ae05a89060dd6f/tile_1756263434888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894fc3f66f164e402f4fd14" start="20261101194800 +0000" stop="20261101202000 +0000">
+        <title>Repostería con Virginia Sar: Desayunos y meriendas</title>
+        <desc>Deliciosas recetas para desayunos y meriendas de la mano de Virginia Sar, quien en esta ocasión, prepara unas imperdibles french toast y cremoso de palta.</desc>
+        <icon src="https://images.pluto.tv/series/68ac7c97b76cf0ad37b7adad/tile_1756174016977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894fc3f66f164e402f4fd14" start="20261101202000 +0000" stop="20261101230000 +0000">
         <title>Dulce by elGourmet</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/featuredImage_1756447018187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41646,7 +42186,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Se preparan marranitas de plátano y empanadas de maíz.</desc>
         <icon src="https://images.pluto.tv/series/6a97059ab60195e27e4d7485/tile_1788282267019.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20261101192000 +0000" stop="20261101230000 +0000">
+    <programme channel="6894febddbd49c964f3b66c8" start="20261101192000 +0000" stop="20261101195300 +0000">
+        <title>Andares de mi tierra</title>
+        <desc>Se prepara un delicioso mondongo.</desc>
+        <icon src="https://images.pluto.tv/series/6a97059ab60195e27e4d7485/tile_1788282267019.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894febddbd49c964f3b66c8" start="20261101195300 +0000" stop="20261101202500 +0000">
+        <title>ABC gourmet conservas</title>
+        <desc>Preparación de las confituras, ahumados y escabeches.</desc>
+        <icon src="https://images.pluto.tv/series/6ae571919abe27364cc718b5/tile_1793421714502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894febddbd49c964f3b66c8" start="20261101202500 +0000" stop="20261101230000 +0000">
         <title>Plato del Dia by elGourmet</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41666,7 +42216,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
         <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20261101200000 +0000" stop="20261101230000 +0000">
+    <programme channel="5f85ca40eda1b10007b967cd" start="20261101200000 +0000" stop="20261101210000 +0000">
+        <title>Conciertos por Stingray</title>
+        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
+        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f85ca40eda1b10007b967cd" start="20261101210000 +0000" stop="20261101230000 +0000">
         <title>Conciertos por Stingray</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41676,7 +42231,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
         <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6047fabfce6e8e00070bcc9f" start="20261101191500 +0000" stop="20261101230000 +0000">
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20261101191500 +0000" stop="20261101201500 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
+        <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20261101201500 +0000" stop="20261101230000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41686,7 +42246,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
         <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile_1792610881841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b218fc511d4b00070ddc0c" start="20261101200000 +0000" stop="20261101230000 +0000">
+    <programme channel="62b218fc511d4b00070ddc0c" start="20261101200000 +0000" stop="20261101220000 +0000">
+        <title>MTV Flow Latino</title>
+        <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
+        <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile_1792610881841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b218fc511d4b00070ddc0c" start="20261101220000 +0000" stop="20261101230000 +0000">
         <title>MTV Flow Latino</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41696,7 +42261,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>TBC</desc>
         <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20261101200000 +0000" stop="20261101230000 +0000">
+    <programme channel="63dac1b78795f300086d5ca6" start="20261101200000 +0000" stop="20261101210000 +0000">
+        <title>TikTok Radio en Español</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dac1b78795f300086d5ca6" start="20261101210000 +0000" stop="20261101230000 +0000">
         <title>TikTok Radio en Español</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/featuredImage_1758309480507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41706,7 +42276,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Las Tortugas Ninjas por fin vislumbran la ubicación de la última pieza del generador, el planeta magdomar. Donde la pieza es resguardada por el temible Tokka.</desc>
         <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63dd5d7a4e83e700088fbca8" start="20261101191600 +0000" stop="20261101230000 +0000">
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20261101191600 +0000" stop="20261101194300 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>A medida que el equipo llega a la Tierra, Fugitoid les revela un terrible secreto sobre su pasado. Fugitoid revela la verdad que el creo el generador del agujero negro y lo vendió.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20261101194300 +0000" stop="20261101201000 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>Abril se enfrenta a una nueva mortal enemiga cuando se gradúa como una kunoichi. Abril descubre que la nueva chica trabaja para Karai.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20261101201000 +0000" stop="20261101230000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/featuredImage_1768926025035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41716,7 +42296,22 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>A Design For Life (Manic Street Preachers) / My Hero (Foo Fighters) / Cryin' (Aerosmith) / God Gave Rock N Roll To You II (Kiss)</desc>
         <icon src="https://images.pluto.tv/series/66993c515b669a00130324af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a01b52a4ee27000808ea36" start="20261101190800 +0000" stop="20261101230000 +0000">
+    <programme channel="66a01b52a4ee27000808ea36" start="20261101190800 +0000" stop="20261101193100 +0000">
+        <title>Rock Anthems of the Century: Royal Blood / Blink 182 / Eagles Of Death Metal / Tenacious D / Twenty One Pilots / Jimmy Eat World</title>
+        <desc>Figure It Out (Royal Blood) / All The Small Things (Blink 182) / I Want You So Hard (Bad Boy's News) (Eagles Of Death Metal) / Tribute (Tenacious D) / Stressed Out (Twenty One Pilots) / The Middle (Jimmy Eat World)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20261101193100 +0000" stop="20261101195600 +0000">
+        <title>Rock Anthems of the Century</title>
+        <desc>Woman (Wolfmother) / Ain't No Rest For The Wicked (Cage The Elephant) / Beautiful Day (U2) / Black Chandelier (Biffy Clyro) / Dirty Little Secrets (Cleaner Version) (The All American Rejects) / I Believe In A Thing Called Love (The Darkness)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20261101195600 +0000" stop="20261101201800 +0000">
+        <title>Rock Anthems of the Century</title>
+        <desc>Waste A Moment (Kings Of Leon) / Yellow (Coldplay) / Cochise (Audioslave) / Drown (Bring Me The Horizon) / I'm Not Ok (I Promise) (My Chemical Romance) / Misery Business (Paramore)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20261101201800 +0000" stop="20261101230000 +0000">
         <title>MTV Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41726,7 +42321,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Beautiful People (Chris Brown Ft. Benny Benassi ) / Dark Horse (Katy Perry Ft. Juicy J) / The Lazy Song (Bruno Mars) / Despacito (Luis Fonsi Feat. Daddy Yankee) / The Middle (Zedd ft. Maren Morris, Grey)</desc>
         <icon src="https://images.pluto.tv/series/68795930a53444ef2ad427a9/tile_1752783164343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20261101191800 +0000" stop="20261101230000 +0000">
+    <programme channel="66a11a21a79dea0008aa90ca" start="20261101191800 +0000" stop="20261101194100 +0000">
+        <title>10's Hits</title>
+        <desc>Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
+        <icon src="https://images.pluto.tv/series/68795930a53444ef2ad427a9/tile_1752783164343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a11a21a79dea0008aa90ca" start="20261101194100 +0000" stop="20261101200900 +0000">
+        <title>10's Hits</title>
+        <desc>bad guy (Billie Eilish) / Stitches (Shawn Mendes) / Starboy (The Weeknd ft. Daft Punk) / Middle (DJ Snake Ft. Bipolar Sunshine) / Heathens (Twenty Øne PilØts)</desc>
+        <icon src="https://images.pluto.tv/series/68795930a53444ef2ad427a9/tile_1752783164343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a11a21a79dea0008aa90ca" start="20261101200900 +0000" stop="20261101230000 +0000">
         <title>MTV Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41746,29 +42351,29 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <desc>Entre 1936 y 1956, la industria del cine mexicano vivió su Época de Oro, un período marcado por la creación de películas aclamadas que jugaron un papel fundamental en la formación de la identidad y cultura, dejando un legado artístico inolvidable.</desc>
         <icon src="https://images.pluto.tv/series/6a986c20e530723cdaed2cd7/tile_1789176466717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a739fb3c1842722eaf5eb1f" start="20261101200000 +0000" stop="20261101230000 +0000">
-        <title>Stingray Época Dorada del Cine Mexicano</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a739fb3c1842722eaf5eb1f/featuredImage_1788376112882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6a739fb3c1842722eaf5eb1f" start="20261101200000 +0000" stop="20261102000000 +0000">
+        <title>Stingray: Época Dorada del cine mexicano</title>
+        <desc>Entre 1936 y 1956, la industria del cine mexicano vivió su Época de Oro, un período marcado por la creación de películas aclamadas que jugaron un papel fundamental en la formación de la identidad y cultura, dejando un legado artístico inolvidable.</desc>
+        <icon src="https://images.pluto.tv/series/6a986c20e530723cdaed2cd7/tile_1789176466717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a73b8f1744143378ce88eae" start="20261101160000 +0000" stop="20261101200000 +0000">
         <title>Stingray: Éxitos regional mexicano</title>
         <desc>Sumérgete en la música regional mexicana, un género musical popular que presenta diversos estilos contemporáneos como banda, corrido, mariachi, norteño y muchos más. Una experiencia auténtica de los sonidos tradicionales de México.</desc>
         <icon src="https://images.pluto.tv/series/6aa1bb677102b85b82178740/tile_1789165707775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a73b8f1744143378ce88eae" start="20261101200000 +0000" stop="20261101230000 +0000">
-        <title>Stingray Éxitos Regional Mexicano</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a73b8f1744143378ce88eae/featuredImage_1788376177458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6a73b8f1744143378ce88eae" start="20261101200000 +0000" stop="20261102000000 +0000">
+        <title>Stingray: Éxitos regional mexicano</title>
+        <desc>Sumérgete en la música regional mexicana, un género musical popular que presenta diversos estilos contemporáneos como banda, corrido, mariachi, norteño y muchos más. Una experiencia auténtica de los sonidos tradicionales de México.</desc>
+        <icon src="https://images.pluto.tv/series/6aa1bb677102b85b82178740/tile_1789165707775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a73b9032cf3064bdf7d3b4e" start="20261101160000 +0000" stop="20261101200000 +0000">
         <title>Stingray: Pop mexicano de los 80</title>
         <desc>Espacio dedicado a la música de la década de 1980, con una selección cuidadosamente curada de los mejores éxitos de pop y rock en español que fueron populares en México, transportando a una gran época de la música latina.</desc>
         <icon src="https://images.pluto.tv/series/6a986c17e530723cdaed1ac8/tile_1789165685987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a73b9032cf3064bdf7d3b4e" start="20261101200000 +0000" stop="20261101230000 +0000">
-        <title>Stingray Pop Mexicano 80's</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a73b9032cf3064bdf7d3b4e/featuredImage_1788558035360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6a73b9032cf3064bdf7d3b4e" start="20261101200000 +0000" stop="20261102000000 +0000">
+        <title>Stingray: Pop mexicano de los 80</title>
+        <desc>Espacio dedicado a la música de la década de 1980, con una selección cuidadosamente curada de los mejores éxitos de pop y rock en español que fueron populares en México, transportando a una gran época de la música latina.</desc>
+        <icon src="https://images.pluto.tv/series/6a986c17e530723cdaed1ac8/tile_1789165685987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
 </tv>
