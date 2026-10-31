@@ -30,9 +30,19 @@ jobs:
 
       - name: Commit files
         run: |
+          echo "Comprobando XML de Argentina:"
+          ls -lh output/plutotv_ar.xml
+          git check-ignore -v output/plutotv_ar.xml || true
+
+          git add -f output/plutotv_ar.xml
+          git add .
+
+          echo "Archivos preparados para guardar:"
+          git status --short
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+
           if ! git diff --cached --quiet; then
             git commit -m "Auto update playlist"
             git push
