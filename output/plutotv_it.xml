@@ -1216,6 +1216,11 @@
         <desc>Un simple inmigrante chino libra una peligrosa guerra contra una de las organizaciones criminales más poderosas del planeta.</desc>
         <icon src="https://images.pluto.tv/series/64132526757193001313365f/tile_1769023441976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="624af40c004f8000079b784d" start="20261103150100 +0000" stop="20261103171700 +0000">
+        <title>Secuestro Inocencia Robada</title>
+        <desc>El policía Robert Goc se involucra en una investigación internacional para encontrar a una niña que fue secuestrada por la mafia rusa.</desc>
+        <icon src="https://images.pluto.tv/series/66e2fc50a1c892001354a97d/tile_1769475961893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62c5d80dc6de440007e033eb" start="20261103103000 +0000" stop="20261103113000 +0000">
         <title>RunTime</title>
         <desc>Runtime es un canal en donde podrás disfrutar de las mejores series y películas protagonizadas por los más grandes actores y actrices de Hollywood. Si buscas acción, comedia, suspenso, drama o romance los vas a encontrar en Runtime.</desc>
@@ -20942,6 +20947,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
         <title>Walt El soñador</title>
         <desc>La película se situa entre 1919-1928, el período de tiempo en que Walt Disney se enfrentó a los mayores retos de su vida como animador hasta el estreno de “Steamboat Willie”, la primera animación con sonidos sincronizados.</desc>
         <icon src="https://images.pluto.tv/series/5f7b870ee4b56900138b780e/tile_1769630402530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6806d519fea7414f33f57016" start="20261104031000 +0000" stop="20261104052500 +0000">
+        <title>Corriendo contra el viento</title>
+        <desc>Dos hermanos de la Etiopía rural se separan cuando eran niños para perseguir sus respectivas pasiones de correr y fotografiar, solo para cruzarse de nuevo como adultos.</desc>
+        <icon src="https://images.pluto.tv/series/6474bdfaf2a541001bcb3924/tile_1769128922165.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="699f405a0c8827936bd287bf" start="20261103214935 +0000" stop="20261103234511 +0000">
         <title>La princesa encantada</title>

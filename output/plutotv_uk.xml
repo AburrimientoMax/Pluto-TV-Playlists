@@ -2216,6 +2216,11 @@
         <desc>From American Legion Memorial Stadium in Charlotte, N.C.</desc>
         <icon src="https://images.pluto.tv/series/6a96b83ce530723cda38dfc1/tile_1788262460998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66f137cb483d460008ece053" start="20261103161500 +0000" stop="20261103183900 +0000">
+        <title>World Rugby Nations Cup 2026</title>
+        <desc>From Clarke Stadium in Edmonton, Alberta.</desc>
+        <icon src="https://images.pluto.tv/series/6a96b83ce530723cda38dfc1/tile_1788262460998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66fd37885049580008d295b6" start="20261103104500 +0000" stop="20261103121500 +0000">
         <title>National Ringette League</title>
         <desc>Coverage of the premier league for the sport of ringette in North America.</desc>
