@@ -10296,6 +10296,11 @@
         <desc>With their mother stuck in LA, the Christmas shopping duties fall on Dad and the gloomy kids. Things start looking a bit more like Christmas when Brian and Mary find a satchel of money at the local mall and they launch a Yuletide shopping spree...</desc>
         <icon src="https://images.pluto.tv/series/66730e901e153400136f1c14/tile_1786135337021.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62ea41f42db3220007db97a6" start="20261107170500 +0000" stop="20261107185500 +0000">
+        <title>The Christmas Consultant</title>
+        <desc>Workaholics Jack and Mindy are too busy to get into the holiday spirit. As their Christmas deadlines fast approach, holiday spirit is at an all time low. The Fletchers need help and there is only one solution, hire a Christmas consultant.</desc>
+        <icon src="https://images.pluto.tv/series/666b1a56fe060c00136cc003/tile_1764822601634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f4f414c2ba130007f8b24e" start="20261107124000 +0000" stop="20261107130500 +0000">
         <title>King of Queens</title>
         <desc>Doug lies to Carrie about being accepted into the IPS management program; Doug tries to conquer a roller coaster that scared him as a child.</desc>
@@ -12654,6 +12659,11 @@
     <programme channel="62e92447ea1e2a000735ed33" start="20261107151500 +0000" stop="20261107170600 +0000">
         <title>Midsomer Murders</title>
         <desc>A member is killed with a golf club on the Whiteoaks Golf Course. During the investigation, Barnaby discovers Whiteoaks to be full of hatred, gambling, violence, jealousy, and extortion.</desc>
+        <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92447ea1e2a000735ed33" start="20261107170600 +0000" stop="20261107185700 +0000">
+        <title>Midsomer Murders</title>
+        <desc>The sale of a previously unknown painting by an 18th-century painter sends Barnaby into an investigation of murders as well as art forgery.</desc>
         <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62e924f2be69bc0007b7d53d" start="20261107123000 +0000" stop="20261107132100 +0000">
@@ -22226,10 +22236,25 @@
         <desc>An officer of the Fort Meyers, Fla., Police Department responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in a bank robbery.</desc>
         <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107192000 +0000" stop="20261107212000 +0000">
-        <title>COPS</title>
-        <desc>COPS puts viewers in the passenger seat with law enforcement officers across America, capturing real calls, high-speed pursuits, arrests and unpredictable encounters in a fast-paced, unfiltered look at policing.</desc>
-        <icon src="https://images.pluto.tv/series/6abc93c83830afefd5c84351/tile_1790743497194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107192000 +0000" stop="20261107194900 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107194900 +0000" stop="20261107201600 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107201600 +0000" stop="20261107204400 +0000">
+        <title>Cops</title>
+        <desc>A shoplifter insists that he had charitable intentions with his haul; supposed baseball fan is found with numerous illicit items in his car; traffic stop for dark tint leads to many more problems for the driver.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107204400 +0000" stop="20261107211000 +0000">
+        <title>Cops</title>
+        <desc>A dangerous high-speed pursuit quickly comes to a head after the driver loses control; in Florida, a man is pulled over in a stolen vehicle and asserts the car belongs to his parents.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6abab34190639e3b198384da" start="20261107165900 +0000" stop="20261107180200 +0000">
         <title>Narcos: Mexico</title>
@@ -30916,20 +30941,45 @@
         <desc>A former athlete teams up with a fierce P.I. to form an investigative powerhouse.</desc>
         <icon src="https://images.pluto.tv/series/6aac5415af45eb18db27f84d/tile_1789678614581.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107192000 +0000" stop="20261107212000 +0000">
-        <title>COPS</title>
-        <desc>COPS puts viewers in the passenger seat with law enforcement officers across America, capturing real calls, high-speed pursuits, arrests and unpredictable encounters in a fast-paced, unfiltered look at policing.</desc>
-        <icon src="https://images.pluto.tv/series/6abc93c83830afefd5c84351/tile_1790743497194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107204400 +0000" stop="20261107211000 +0000">
+        <title>Cops</title>
+        <desc>A dangerous high-speed pursuit quickly comes to a head after the driver loses control; in Florida, a man is pulled over in a stolen vehicle and asserts the car belongs to his parents.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107212000 +0000" stop="20261107232000 +0000">
-        <title>COPS</title>
-        <desc>COPS puts viewers in the passenger seat with law enforcement officers across America, capturing real calls, high-speed pursuits, arrests and unpredictable encounters in a fast-paced, unfiltered look at policing.</desc>
-        <icon src="https://images.pluto.tv/series/6abc93c83830afefd5c84351/tile_1790743497194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107211000 +0000" stop="20261107213700 +0000">
+        <title>Cops</title>
+        <desc>An arrest is made in a notorious New Jersey drug hotbed; officers find a suspect hidden under a mattress; a bicycle thief is caught red-handed.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107232000 +0000" stop="20261108002400 +0000">
-        <title>COPS</title>
-        <desc>COPS puts viewers in the passenger seat with law enforcement officers across America, capturing real calls, high-speed pursuits, arrests and unpredictable encounters in a fast-paced, unfiltered look at policing.</desc>
-        <icon src="https://images.pluto.tv/series/6abc93c83830afefd5c84351/tile_1790743497194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107213700 +0000" stop="20261107220600 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107220600 +0000" stop="20261107223300 +0000">
+        <title>Cops</title>
+        <desc>A suspect has a change of heart after he leads police on a pursuit; an officer discovers sterile syringes and rocks in a suspicious man's pocket after he is stopped and searched.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107223300 +0000" stop="20261107230000 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107230000 +0000" stop="20261107232600 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107232600 +0000" stop="20261107235500 +0000">
+        <title>Cops</title>
+        <desc>Officers assist a struggling single mother with her unruly son.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433f45/tile_1792794455292.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261107235500 +0000" stop="20261108002400 +0000">
+        <title>Cops</title>
+        <desc>A sheriff supervises a prostitution sting; a deputy stops a man having trouble walking down a crowded street; a deputy pulls over a driver who does not possess car keys.</desc>
+        <icon src="https://images.pluto.tv/series/6abc271cda71d9a75f433ee2/tile_1790969583717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6aa2c3d1cb18e0ed0255f8d0" start="20261108002400 +0000" stop="20261108005100 +0000">
         <title>Cops</title>
@@ -36361,6 +36411,11 @@
         <desc>In this triple Oscar-winning film, a young drummer (Miles Teller) in his school's top-tier jazz band clashes with the intense, abusive methods of an obsessive music teacher (J.K. Simmons). With Melissa Benoist.</desc>
         <icon src="https://images.pluto.tv/series/6728eb48321c1900138d9a3d/tile_1778802842850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20261108052700 +0000" stop="20261108074200 +0000">
+        <title>The Founder</title>
+        <desc>The true story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into one of the biggest restaurant businesses in the world.</desc>
+        <icon src="https://images.pluto.tv/series/652ff72fd193e8001b87daa5/tile_1782827281673.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62bdb7f0db2eb30007376d4d" start="20261108004900 +0000" stop="20261108011700 +0000">
         <title>Cheers</title>
         <desc>Sam and Rebecca seek psychiatric help for getting in the mood.</desc>
@@ -39385,6 +39440,11 @@
         <title>The Alamo</title>
         <desc>John Wayne produces, directs and stars in this retelling of the Alamo, a battle in which 185 men joined together against an army of 7,000. Filmed entirely in Texas, "The Alamo" is a visually stunning and historically accurate celebration of courage.</desc>
         <icon src="https://images.pluto.tv/series/69147afe69032f4edfa62e22/tile_1762949970176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66dad50215d2c60008d7afbd" start="20261108064800 +0000" stop="20261108094600 +0000">
+        <title>John Sturges' The Hallelujah Trail</title>
+        <desc>Chaos reigns on the wide open plains as a host of stars, including Burt Lancaster and Lee Remick, have their eyes set on a shipment of whiskey and let loose in this wild comedy that spoofs nearly every convention of movie westerns.</desc>
+        <icon src="https://images.pluto.tv/series/691487b805e444b5ed9c3e73/tile_1786133918968.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68d25c623175a2780d051d3a" start="20261108005700 +0000" stop="20261108014700 +0000">
         <title>Johnny Carson</title>
@@ -44955,6 +45015,11 @@
         <title>Borg vs. McEnroe</title>
         <desc>The story of the legendary 1980s tennis rivalry between the placid Björn Borg (Sverrir Gudnason) and the volatile John McEnroe (Shia LaBeouf).</desc>
         <icon src="https://images.pluto.tv/series/64c2a290ab3edd00132d7bfb/tile_1786652642162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20261108095000 +0000" stop="20261108121000 +0000">
+        <title>I, Tonya</title>
+        <desc>Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.</desc>
+        <icon src="https://images.pluto.tv/series/674f11b3321c190013ffcd44/tile_1783419481021.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb7f0db2eb30007376d4d" start="20261108043400 +0000" stop="20261108050200 +0000">
         <title>Cheers</title>
